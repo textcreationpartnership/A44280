@@ -1,0 +1,1279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay concerning the Sabbath, or, The Sabbath-days rest from controversie wherein is asserted that our Christian Sabbath, Lords-day, or Sunday is the very same day of the week which was anciently observed by the Jews and Gentiles for the solemn day of their solemn weekly worship, before Israels coming out of Ægypt and after that by gentiles : prefaced, with an introduction thereunto touching the true meaning of Gen. 2 v, 2, 3 / by N. Homes.</title>
+            <author>Homes, Nathanael, 1599-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 81 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44280</idno>
+            <idno type="STC">Wing H2564</idno>
+            <idno type="STC">ESTC R28681</idno>
+            <idno type="EEBO-CITATION">10740928</idno>
+            <idno type="OCLC">ocm 10740928</idno>
+            <idno type="VID">45590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45590)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1404:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay concerning the Sabbath, or, The Sabbath-days rest from controversie wherein is asserted that our Christian Sabbath, Lords-day, or Sunday is the very same day of the week which was anciently observed by the Jews and Gentiles for the solemn day of their solemn weekly worship, before Israels coming out of Ægypt and after that by gentiles : prefaced, with an introduction thereunto touching the true meaning of Gen. 2 v, 2, 3 / by N. Homes.</title>
+                  <author>Homes, Nathanael, 1599-1678.</author>
+               </titleStmt>
+               <extent>[12], 141 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle to the reader signed: Nathanael Homes.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sunday.</term>
+               <term>Sabbath.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="errata">
+            <pb facs="tcp:45590:1"/>
+            <p>ERRATUM.</p>
+            <p>Page 74. Sect. 7. <hi>Line</hi> 1. rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Uncontradictably.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:45590:1" rendition="simple:additions"/>
+            <p>AN ESSAY Concerning the Sabbath; OR THE SABBATH-DAYS REST FROM CONTRO<g ref="char:V">Ʋ</g>ERSIE.</p>
+            <p>Wherein is aſſerted, That our CHRISTIAN SABBATH Lords-day, or Sunday is, the very ſame day of the Week, which was Anci<g ref="char:EOLhyphen"/>ently obſerved by the <hi>Jews,</hi> and <hi>Gentiles,</hi> for the Solemn day of their Solemn week<g ref="char:EOLhyphen"/>ly Worſhip, before <hi>Iſraels</hi> coming out of <hi>AEGYPT,</hi> and after that by the <hi>Gentiles.</hi>
+            </p>
+            <p>PREFACED With an INTRODUCTION thereunto, touching the true meaning of <hi>Gen.</hi> 2. <hi>v,</hi> 2, 3. <hi>And on the Seventh day God ended his work, and reſted that day, and bleſſed, and ſanctified it.</hi>
+            </p>
+            <p>In parvo magnum. By <hi>N. Homes</hi> D. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1673.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:45590:2"/>
+            <pb facs="tcp:45590:2"/>
+            <head>THE EPISTLE TO THE Reader.</head>
+            <p>INgenious, and Ingenuous Candid Reader, I had thought that by this time I had been <hi>(Rude donatus)</hi> freed from any further at<g ref="char:EOLhyphen"/>tendance at the Preſs, hav<g ref="char:EOLhyphen"/>ing toyled ſo much, and ſo long in that Warfair. But
+<pb facs="tcp:45590:3"/>ſeeing that neither <hi>all Men,</hi> nor all <hi>pretenders to Learn<g ref="char:EOLhyphen"/>ing,</hi> are yet ſatisfied about our Chriſtian Sabbath: ſome Heſitating about the <hi>time;</hi> others about the <hi>number;</hi> a third ſort about the <hi>mora<g ref="char:EOLhyphen"/>lity</hi> of it: And others, on the other hand, encouraging me to ſet forth this <hi>Irenicon,</hi> I yielded to them their deſire: Of which, that I might not be fond, as of a birth of my Brain, I anticipated it, by following in ſome degree, <hi>Quintilian's</hi> advice, to the <hi>Author</hi> of any Book <hi>(No<g ref="char:EOLhyphen"/>num<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> prematur in annum; ut refrigerato inventionis amore tanquam Lector per<g ref="char:EOLhyphen"/>penderet)</hi> That he ſhould
+<pb facs="tcp:45590:3"/>ſuppreſs his Treatiſe for Nine years, whereby, he cool<g ref="char:EOLhyphen"/>ing the fervor of his Affecti<g ref="char:EOLhyphen"/>onate love to his own inven<g ref="char:EOLhyphen"/>tion, he might peruſe and weigh it rather as the <hi>Reader</hi> of it then the <hi>Author.</hi>
+            </p>
+            <p>This Counſel I have fol<g ref="char:EOLhyphen"/>lowed halfe way, my judg<g ref="char:EOLhyphen"/>ment (in Oppoſition to fond Affection) leading me there<g ref="char:EOLhyphen"/>unto <hi>(Quartum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> repreſſit in annum)</hi> and ſuppreſt this Treatiſe this Four years; and upon the ſame account as aforeſaid, <hi>viz.</hi> to prevent doting upon it. But when its Leaſe was out, it was releaſt and got abroad into the World, more to oblige Conſcience to a more ſerious
+<pb facs="tcp:45590:4"/>ſolemnizeing the Lord's-day; and to mind us of that Eter<g ref="char:EOLhyphen"/>nal <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Sabbatiſme,</hi> of which it is the Typical Re<g ref="char:EOLhyphen"/>preſentation. A fit Subject for my old Age, and all that are ancient in days.</p>
+            <p>Yet let no man Dream that in this Treatiſe I dote; as if that little Learning I have had, made me beſides my ſelf; or that it is now too late for me to meddle with <hi>Mathematical</hi> Num<g ref="char:EOLhyphen"/>brings, Meaſurings, and Re<g ref="char:EOLhyphen"/>volutions of times, So that they dare ſay, I cannot make good the Title of the Book; I think I may as boldly ſay, ſuch Confidents endeavour to advance their neſcience
+<pb facs="tcp:45590:4"/>above anothers Knowledge; yea, and indeed, to make raſh Cenſoriouſneſs to ride in Triumph over ſober Conſide<g ref="char:EOLhyphen"/>ration. For they judge of things (as we ſay) unſight and unſeen, and ſo make their illiterateneſs <hi>(ad hoc)</hi> to be the meaſure of another mans diſcoveries. But he only that is Learned is able duly to judge of a Man of Learning. Nor doth God diſcover all truths at once, <hi>Heb. 1.1.</hi> nor to all men alike; to ſome more, to ſome leſs. One <hi>Micajah</hi> (let me ſpeak it without boaſting my ſelf, but in a way of Apology for my lonelineſs in this Tenet): <hi>I</hi> ſay one <hi>Mi<g ref="char:EOLhyphen"/>cajah</hi>
+               <pb facs="tcp:45590:5"/>in <hi>1 King. 22.6. &amp;c.</hi> was in the right, when Four hundred falſe Prophets were in the wrong. And ſo was <hi>Elijah</hi> in the right when the Four hundred and fifty Pro<g ref="char:EOLhyphen"/>phets of <hi>Baal,</hi> and the Four hundred Prophets of the <hi>Groves</hi> greatly erred. <hi>1 Kings 18. v. 19. &amp;c.</hi> And of latter times, one <hi>Paphnutius</hi> by his Wiſdom and ſtrength of Rea<g ref="char:EOLhyphen"/>ſon turned a whole Council. (A memorable ſtory).</p>
+            <p>Men building on falſe Principles, are ſure to erre in their Concluſions. For Example: The Sabbath (ſay moſt) is the Seventh day from the Creation.
+<pb facs="tcp:45590:5"/>which (ſay we) cannot be; becauſe no Mortal Man could ever tell where the <hi>Sun</hi> firſt appeared to the World;
+<note place="margin">N. B.</note> whe<g ref="char:EOLhyphen"/>ther in the <hi>Eaſt,</hi> or in the <hi>Weſt,</hi> whether at Noon, or at Midnight, whereby to fix the Beginning and the End<g ref="char:EOLhyphen"/>ing of the Natural Sabbath-day; that is, The Natural Seventh day, of Twenty four hours. Beſides, no one day ſo meaſured out, could be comenſurate, to make an <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Seventh day to ſerve all Nations to begin their Sabbath at the ſame hour. For the <hi>Sun</hi> in its ſwift Courſe makes in every hour a new <hi>Horizon,</hi> and ſo a new hour to every Nation,
+<pb facs="tcp:45590:6"/>according to their various Situations. So that the Seventh day from the Cre<g ref="char:EOLhyphen"/>ation is quite out of doors,
+<note place="margin">N. B.</note> and the Seventh day after Six days labour in every Countrey muſt be taken into the room thereof.</p>
+            <p>In this <hi>Eſſay,</hi> as I follow no Common Rode, or plural of <hi>Authors,</hi> ſo nor do I (as if diſpleaſed) tread upon any mans heels that hath gone before, bearing Witneſs to the Divine Authorizati<g ref="char:EOLhyphen"/>on and Morality of the Sab<g ref="char:EOLhyphen"/>bath though on different Prin<g ref="char:EOLhyphen"/>ciples. But my greateſt care is, leaſt the Reader ſhould not be as clear in his appre<g ref="char:EOLhyphen"/>henſions
+<pb facs="tcp:45590:6"/>of my expreſſions, as I am in this Notion touch<g ref="char:EOLhyphen"/>ing the Identity and ſame<g ref="char:EOLhyphen"/>neſs of our. Lord's Day, or Sabbath with that from the Creation to <hi>Iſraels</hi> coming out of <hi>Aegypt.</hi> The <hi>Reader</hi> therefore,
+<note place="margin">N. B.</note> that is deſirous to underſtand, is intreated ſtu<g ref="char:EOLhyphen"/>diouſly to read the whole, and then compare and ponder part with part, and then im<g ref="char:EOLhyphen"/>partially judge of all. And may perhaps thereby be pro<g ref="char:EOLhyphen"/>voked and be enabled to ſpeak more fully to the Point then I have done: as a looker on (we ſay) ſees oft-times more then he that plays the Game. If I have broken the Ice, another may wade further.
+<pb facs="tcp:45590:7"/>Truth (ſay the <hi>Ancients</hi>) lies hidden in a quick-Spring-Well; therefore is not drawn out but by degrees. And every degree gives Light into fur<g ref="char:EOLhyphen"/>ther Truth; Impoſſibles (as deemed) become poſſible, poſſi<g ref="char:EOLhyphen"/>bles to appear probable, pro<g ref="char:EOLhyphen"/>bables to evidence themſelves demonſtrable.</p>
+            <p>Is it impoſſible for a Ma<g ref="char:EOLhyphen"/>ſter of Reaſon to imagine this Suppoſition; That he ſees <hi>Noah</hi> in his Ark, and while he there ſees him, one while in the <hi>upper</hi> room of the <hi>Ark,</hi> another while in the lower, that ſtill he ſees him in the <hi>Ark?</hi> No more is it impoſſible for a man to con<g ref="char:EOLhyphen"/>ceive
+<pb facs="tcp:45590:7"/>that whiles he conſi<g ref="char:EOLhyphen"/>ders the Sabbath day in the upper region of the time of the natural Sabbath day of Twenty four hours, to wit in the Evening; or conſider the Sabbath in the lower Region of it, namely in the Morning and beginning of the ſaid day, that ſtill it is <hi>Materi<g ref="char:EOLhyphen"/>ally</hi> the ſame Sabbath day, though <hi>Formally</hi> it became the <hi>Jews Sabbath,</hi> as limi<g ref="char:EOLhyphen"/>ted by <hi>Moſes</hi>'s Adminiſtra<g ref="char:EOLhyphen"/>tion: And it becomes formal<g ref="char:EOLhyphen"/>ly the <hi>Chriſtian Sabbath</hi> as it was firſt ſtated by the Pa<g ref="char:EOLhyphen"/>triarchs before the Flood, <hi>&amp;c.</hi> and afterwards ſtabliſhed by Chriſts Reſurrection.</p>
+            <pb facs="tcp:45590:8"/>
+            <p>
+               <hi>I</hi> ſhall conclude with this confidence in the ſight of God, that if <hi>I</hi> have not pro<g ref="char:EOLhyphen"/>moted the Stabliſhment of our <hi>Chriſtian Sabbath</hi> (which was my whole deſign) <hi>I</hi> am ſure, it is not prejudiced by</p>
+            <closer>
+               <signed>Nathanael Homes.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb n="1" facs="tcp:45590:8"/>
+            <head>THE INTRODUCTION Concerning the ESSAY Touching the SABBATH.</head>
+            <div n="1" type="chapter">
+               <head>CAPITULUM I.</head>
+               <argument>
+                  <p>
+                     <hi>1.</hi> The <hi>Theſis</hi> to be defended. <hi>2.</hi> The two <hi>Champion Oppo<g ref="char:EOLhyphen"/>nents of it</hi> named, and noted. <hi>3.</hi> The two <hi>Combating-Defen<g ref="char:EOLhyphen"/>dents of it decyphered,</hi> and engaged. <hi>4.</hi> Some Auxiliary Forces drawn out to the Battel, by <hi>Willet</hi> and <hi>Weemſe &amp;c.</hi> as occaſion ſerves.</p>
+               </argument>
+               <p n="1">1. THE <hi>Theſis</hi> to be defend<g ref="char:EOLhyphen"/>ed by us, and our Aſſi<g ref="char:EOLhyphen"/>ſtants is, <hi>That thoſe words</hi> Gen. 2.23. <hi>And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n the Seventh day God ended his
+<pb n="2" facs="tcp:45590:9"/>work which he had made. And he reſted on the Seventh day from all his works which he had made. And bleſſed the ſeventh day, and Sancti<g ref="char:EOLhyphen"/>fied it; becauſe in it he had reſted from all his works which God Cre<g ref="char:EOLhyphen"/>ated and made;</hi> I ſay thoſe words were ſpoken by <hi>Moſes Hiſtorical<g ref="char:EOLhyphen"/>ly,</hi> narrating what God hath actu<g ref="char:EOLhyphen"/>ally done, in inſtituting the Sab<g ref="char:EOLhyphen"/>bath at the beginning of the World; and not <hi>Proleptically,</hi> pre<g ref="char:EOLhyphen"/>dicting, or fore-ſpeaking only what God would do in time to come, in Inſtituting the Sabbath; <hi>viz.</hi> That long after the Creati<g ref="char:EOLhyphen"/>on (as is by ſome ſuppoſed) at the time of the comming of <hi>Manna</hi> in <hi>Moſes</hi>'s time, (<hi>Ex.</hi> 16.) God would Inſtitute the Sabbath.</p>
+               <p n="2">2. The two Champion op<g ref="char:EOLhyphen"/>ponents of this poſition are, <hi>Franciſcus Gomarus,</hi> and <hi>Petrus Hylinus,</hi> who have ſo toyled themſelves, to prove the Nega<g ref="char:EOLhyphen"/>tive, that is, to aſſert a <hi>Prolepſis,</hi>
+                  <pb n="3" facs="tcp:45590:9"/>as is to me a wonder, yea Won<g ref="char:EOLhyphen"/>ders; to wit, in ſweating them<g ref="char:EOLhyphen"/>ſelves in ſeeking their <hi>Prolepſis,</hi> ſo as they cauſe in me a jealou<g ref="char:EOLhyphen"/>ſie, that they themſelves are not cordially perſwaded they can clearly find it. Nor is it poſſible (ſaith the Law) to prove a meer Negative. Nor was it ever heard of a <hi>Prolepſis</hi> of that length of time, <hi>viz.</hi> of above 2000 years, <hi>viz.</hi> from the Creation to the coming of <hi>Manna.</hi>
+               </p>
+               <p n="3">3. The former of theſe two Champions, <hi>viz. Gomarus</hi> with his Regiment of Authors,
+<note place="margin">
+                     <hi>Rivet</hi> de Orig. Sabb.</note> and Arguments againſt our <hi>Theſis</hi> doth renouned <hi>Rivet</hi> * encoun<g ref="char:EOLhyphen"/>ter, and to good purpoſe.</p>
+               <p n="4">4. To the other, <hi>viz. Peter Hylyn</hi> I ſhall reply the leſs, be<g ref="char:EOLhyphen"/>cauſe <hi>Rivetus</hi> hath ſaid ſo much; and Learned <hi>Willet</hi> and <hi>Weemſe</hi> will ſay more.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="4" facs="tcp:45590:10"/>
+               <head>CAP. 2.</head>
+               <argument>
+                  <p n="1">1. <hi>Rivets</hi> ſtrength weakens <hi>Gomarus.</hi>
+                  </p>
+                  <p n="2">2. <hi>Rivets</hi> Aſſertion in oppoſiti<g ref="char:EOLhyphen"/>on to <hi>Gomarus</hi> proved by Thirty Learned <hi>Proteſtant Authors.</hi>
+                  </p>
+                  <p n="3">3. The <hi>Papiſts</hi> alledged for us.</p>
+                  <p n="4">4. The Fathers alledged for us.</p>
+               </argument>
+               <p n="1">1. OUR firſt Work then in order to the proving of our foreſaid <hi>Theſis</hi> is, to mind you of Learned <hi>Rivet</hi>
+                  <note place="margin">n="*" De <hi>Orig.</hi> Sab.</note> his ſtrong Anſwer to <hi>Gomarus,</hi> touching our foreſaid <hi>Theſis,</hi> and the con<g ref="char:EOLhyphen"/>cerns thereof. For by how much <hi>Gomarus</hi> his <hi>Negative</hi> (that God did not Inſtitute the Sabbath at the Creation) is Invalidated; by ſo much <hi>Rivetus</hi> his <hi>Affirma<g ref="char:EOLhyphen"/>tive</hi> (that God did Inſtitute the Sabbath at the Creation) is Cor<g ref="char:EOLhyphen"/>roborated. <hi>(Sie vice erſa)</hi> By ſo
+<pb n="5" facs="tcp:45590:10"/>much as <hi>Rivets</hi> Affirmative is Confirmed, by ſo much <hi>Gomarus</hi> his Negative is weakned. Now that the (judicious Readers) may in this ſcarcity of <hi>Rivets</hi> an<g ref="char:EOLhyphen"/>ſwer have ſo much of it in your eye, as thereby ye may better judge of <hi>Gomarus</hi> his and my Treatiſe, I ſhall take the pains (though now irkſom to my an<g ref="char:EOLhyphen"/>cient Body) to give you a Bre<g ref="char:EOLhyphen"/>viat of <hi>Rivets</hi> Treatiſe in an<g ref="char:EOLhyphen"/>ſwer to <hi>Gomarus de origine Sab<g ref="char:EOLhyphen"/>bath.</hi> which is all the Anſwer I ſhall give to him, the ſaid <hi>Go<g ref="char:EOLhyphen"/>marus.</hi>
+               </p>
+               <p n="2">2. To come then to the very point of giving in <hi>Rivets</hi> Anſwer to <hi>Gomarus,</hi> againſt his <hi>Negative</hi> [That <hi>God did not Inſtitute the Sabbath in the beginning of the World</hi>] take <hi>Rivets</hi> grand Aſſer<g ref="char:EOLhyphen"/>tion,
+<note place="margin">
+                     <hi>Rivets</hi> grand Aſ<g ref="char:EOLhyphen"/>ſertion a<g ref="char:EOLhyphen"/>gainſt <hi>Go<g ref="char:EOLhyphen"/>marus.</hi>
+                  </note> with the ſaid <hi>Rivets</hi> Re<g ref="char:EOLhyphen"/>giment of Witneſſes to the ſaid <hi>Rivets</hi> Aſſertion, as followeth; <hi>viz,</hi> That <hi>God did from the be<g ref="char:EOLhyphen"/>ginning
+<pb n="6" facs="tcp:45590:11"/>of the World Sanctifie the Seventh day for his Worſhip among men, hath been</hi> (ſaith <hi>Ri<g ref="char:EOLhyphen"/>vet) the common opinion of the Learned which have flouriſhed in the reformed Churches, as the moſt Excellent</hi> and moſt Learned <hi>Ant. Walleus</hi> hath ſhewed in his <hi>Diſſertation concerning the Fourth Commandement,</hi> Cap. 3. Alleag<g ref="char:EOLhyphen"/>ing the Teſtimonies of <hi>Luther, Com.</hi> in 2 cap. <hi>Gen.</hi> of <hi>Zuinglius. Com.</hi> in 20 of <hi>Exod.</hi> of <hi>Calvin</hi> on the ſame place, and in his Notes on the 4th. <hi>Com.</hi> Ex. 20. and <hi>Deut.</hi> 5. Where he doth more clearly explain himſelf. Of <hi>Be<g ref="char:EOLhyphen"/>za</hi> in 1 <hi>Apoc.</hi> of <hi>Martyr</hi> in <hi>Cap.</hi> 2. <hi>Gen.</hi> and on 4. <hi>Com. Bullinger</hi> on 12. <hi>Chap.</hi> of <hi>Mat. Zanchie</hi> in his <hi>Lib.</hi> 1. part 3. <hi>de Oper. Creat. Cap.</hi> 1. <hi>&amp; Decad.</hi> 1. <hi>Serm</hi> 4. Of <hi>
+                     <g ref="char:V">Ʋ</g>rſin.</hi> in his <hi>Exercit. Catachet</hi> upon the Fourth Commandment. <hi>Gualter</hi> on <hi>Matt. Hom.</hi> 162. Of <hi>Aretius</hi> in his 1 Tom. of his <hi>Com<g ref="char:EOLhyphen"/>mon
+<pb n="7" facs="tcp:45590:11"/>places.</hi> Of <hi>Bonaventure Ber<g ref="char:EOLhyphen"/>tram.</hi> Of the <hi>Judaic. Pol.</hi> Cap. 2. Of <hi>Mercer</hi> on <hi>Gen.</hi> 2. Of <hi>Anto. Faius</hi> in his <hi>Enchir. theol. Diſp.</hi> 47. on the 4 Com. Of <hi>Junius</hi> on <hi>Gen.</hi> 2. Of <hi>Pareus</hi> on the ſame. Of <hi>Zepperus.</hi> 4 Book, <hi>Chap.</hi> 24. Concerning the Forrain Laws of the <hi>Jews.</hi> Of <hi>Martinius</hi> in his Book concerning the <hi>Chriſtian</hi> and <hi>Catholick</hi> Faith. Of <hi>Alſted.</hi> in his <hi>Catechetical Theolog.</hi> Sect. 3. <hi>Cap.</hi> 6.</p>
+               <p>To which I add <hi>Lambertum Daneum</hi> in his <hi>Chriſtian Ethicks.</hi> 2 Book, 10 <hi>Chap.</hi> Largely; ſay<g ref="char:EOLhyphen"/>ing, That the <hi>Jews</hi> account the Seventh day holy; Yea, before all Legal Ceremonies, they re<g ref="char:EOLhyphen"/>ceived it by Tradition from their Fathers, to whom the Lord had revealed it, and to whom their Sacrifices were grateful, and their Seventh day well pleaſing. <hi>Rod. Hoſpinianum</hi> concerning the <hi>Jews</hi> Feſtivals; <hi>Chap.</hi> 3. We
+<pb n="8" facs="tcp:45590:12"/>muſt (ſaith he) hold that the Sab<g ref="char:EOLhyphen"/>bath was Inſtituted by the moſt excellent higheſt God, and not long time after in <hi>Moſes</hi>'s time, in Mount <hi>Sina;</hi> but in the very beginning of the World. <hi>Joſiam ſimlerum</hi> in <hi>Exod.</hi> 20. God did, <hi>Moſes</hi> being Witneſs, in the Cre<g ref="char:EOLhyphen"/>ation of the World, Sanctifie the Sabbath,
+<note place="margin">N. B.</note> and Bleſſed it. And ſeeing that the Fathers had their ſacred Conventions and Sacrifi<g ref="char:EOLhyphen"/>ces, it is very likely they had al<g ref="char:EOLhyphen"/>ſo certain ſet times wherein they did Convene. And what day did they rather chooſe then that which was Sanctified by God himſelf. <hi>Martinum Bucer</hi> on <hi>John</hi> 5. It is very likely, that this obſervation of the Sabbath was not firſt brought in by <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> but by him a new eſtabliſhed. For the Ancient Fathers had it in uſe and practice among them. The other <hi>Martin.</hi> to wit, <hi>Chem<g ref="char:EOLhyphen"/>nitius,</hi> on the <hi>Decalogue,</hi> Com.
+<pb n="9" facs="tcp:45590:12"/>10.2. confeſſeth, That the obſervation of the Sabbath was Inſtituted before the Law of <hi>Moſes. Conradus Pellican.</hi> in <hi>cap.</hi> 2. Gen. <hi>Cap.</hi> 3. ſaith, Bleſſed out of doubt were the reſt of the days; but that ſame Seventh day God willed, and taught that it was to be ſet up in its place, or kept, and ordered in this, that men might be at leiſure for, or to their Creator, wherein they might diligently apply themſelves to the ſtudy of know<g ref="char:EOLhyphen"/>ing the good pleaſure of God, and of calling to mind his bene<g ref="char:EOLhyphen"/>fits; of admiring the Power, Wiſdom, Providence, and Good<g ref="char:EOLhyphen"/>neſs of that chief Workman,
+<note place="margin">N. B.</note> and of hearing or Learning from the FATHERS AFORE THE LAW, or out of the Sacred Books by Interpreters after the Law was given, what the Om<g ref="char:EOLhyphen"/>nipotent requires of us, <hi>&amp;c. Wolfang. Franzius in Schola Sa<g ref="char:EOLhyphen"/>cra
+<pb n="10" facs="tcp:45590:13"/>Diſp. Theſis</hi> 1.11. It doth appertain (ſaith he) to the <hi>Eu<g ref="char:EOLhyphen"/>taxie</hi> or good order of the Ec<g ref="char:EOLhyphen"/>cleſiaſtical State, in ſtate of In<g ref="char:EOLhyphen"/>nocency,
+<note place="margin">☞</note> that there ſhould be a Sanctification of a certain, or ſet time, <hi>viz.</hi> of the Seventh day or Sabbath; To wit, God bleſſed the Seventh day, and Sanctified it, becauſe in it he reſted from all his Works. And he puts, in the Margin of his Book, theſe Words, <hi>[In the State of Innocency the Seventh day was Sacred.] John Conrad. Pfeilen.</hi> in his <hi>Clar. Theo<g ref="char:EOLhyphen"/>log.</hi> pag. 217. The Sanctificati<g ref="char:EOLhyphen"/>on of the Sabbath was not long, and at laſt then Inſtituted in the time of <hi>Moſes,</hi> when the Deca<g ref="char:EOLhyphen"/>logue was promulgated in Mount <hi>Sinai:</hi> But was ordained and ordered preſently after the Cre<g ref="char:EOLhyphen"/>ation of the World: But was in<g ref="char:EOLhyphen"/>deed afterwards in the Law of <hi>Moſes</hi> ſeverely repeated, upon penalty of Death, not to be
+<pb n="11" facs="tcp:45590:13"/>violated. <hi>Henricus Butingus,</hi> Chronol. <hi>Pag.</hi> 12. <hi>ad annum Mundi primum,</hi> The Sabbath is Sanctified by God, and Celebra<g ref="char:EOLhyphen"/>ted by our firſt Parents in <hi>Para<g ref="char:EOLhyphen"/>diſe,</hi> whilſt our Nature was yet perfect. To the ſame effect <hi>Bar<g ref="char:EOLhyphen"/>tafius</hi> concerning the Seventh day of the week, doth ſpeak in Verſe. Nor doth <hi>Golartius</hi> diſſent from him, writing on the ſame place. I could alſo add <hi>Ti<g ref="char:EOLhyphen"/>lenus</hi> (whiles he was a Soldier in our Camp) on the fourth Com<g ref="char:EOLhyphen"/>mand. <hi>Theſ.</hi> 3. And <hi>Marlorat.</hi> in <hi>Theſaur. Locor. Commun.</hi> More Authors might be brought; But here are produced THIRTY, from whoſe judgment I could not prevail with my ſelf to de<g ref="char:EOLhyphen"/>part.</p>
+               <p n="3">3. Among the <hi>Papiſts</hi> there are ſome for the <hi>Negative,</hi> That <hi>God did not Inſtitute the Sabbath</hi> at the beginning of the World; as <hi>Abulenſis,</hi> and all that follow
+<pb n="12" facs="tcp:45590:14"/>him. Others are with us, for the <hi>Affirmative,</hi> That it was Inſtitu<g ref="char:EOLhyphen"/>ted at the Creation of the World; as <hi>Auguſt. Stench. Eugub.</hi> in <hi>Coſmo<g ref="char:EOLhyphen"/>poeia,</hi> on Gen. 2. Who will not only have it that <hi>then, at the be<g ref="char:EOLhyphen"/>ginning of the World</hi> that Day was Sanctified for the uſe of Di<g ref="char:EOLhyphen"/>vine Worſhip; <hi>But alſo they had it after that, in all Ages, in all Nations</hi> (or Gentiles) <hi>Vene<g ref="char:EOLhyphen"/>rable, and Sacred.</hi> So <hi>Gilbertus Genebrandus</hi> in <hi>Chronolog, ad An<g ref="char:EOLhyphen"/>num primum Mundi,</hi> The Sancti<g ref="char:EOLhyphen"/>fication (ſaith he) of the Sabbath; and that it was obſerved in all the time of the Law of Nature,
+<note place="margin">N. B.</note> the <hi>Hebrews</hi> deliver it to us. And ſo doth <hi>Lyranus,</hi> Gen. 7. even as he doth ſome other Le<g ref="char:EOLhyphen"/>gals. And the ſame Opinion doth <hi>Jacob. Salianus</hi> proſecute in many Words, in <hi>Annal</hi> V. <hi>Teſt. ad An<g ref="char:EOLhyphen"/>num Mundi</hi> 1, <hi>Diem</hi> 7. <hi>ubi Ter<g ref="char:EOLhyphen"/>tullianum</hi> (who ſeems to think otherwiſe) he doth explain,
+<note place="margin">☞</note> con<g ref="char:EOLhyphen"/>cerning
+<pb n="13" facs="tcp:45590:14"/>the Sabbath, as it is Ce<g ref="char:EOLhyphen"/>remonially and rigidly obſer<g ref="char:EOLhyphen"/>ved by the <hi>Jews.</hi> Likewiſe <hi>Cor<g ref="char:EOLhyphen"/>nel. a Lapide</hi> on <hi>Gen.</hi> 2. It is ma<g ref="char:EOLhyphen"/>nifeſt, ſaith he, that the Sabbath was Iniſtruted <hi>a Feſtival or Holy Day at firſt,</hi> not by <hi>Moſes,</hi> Ex. 20. <hi>v.</hi> 3. <hi>but</hi> LONG BEFORE, <hi>to wit, at the beginning of the World.</hi> He had ſaid a little be<g ref="char:EOLhyphen"/>fore [He <hi>Sanctified it,</hi> that is, He Inſtituted it, a Holy Day, and would have it to be honou<g ref="char:EOLhyphen"/>red with an high eſteem of <hi>Adam</hi> and his Poſterity with a Sacred leiſure and Worſhip of God.] He addeth, That the Fourth Commandement was <hi>a Divine Precept, not natural, but poſitive.</hi> As of the ſame Judgment he cites <hi>Catharinus,</hi> upon the ſame place. And <hi>Emanuel Sa</hi> conſent<g ref="char:EOLhyphen"/>eth: <hi>Here,</hi> ſaith he, <hi>it appears that the abbath was Celebrated from the very Beginning.</hi> Which thing alſo <hi>Ribera</hi> aſſerts,
+<note place="margin">N. B.</note> and
+<pb n="14" facs="tcp:45590:15"/>proves in the Ep. to the <hi>Heb. Cap.</hi> 4. <hi>Number</hi> 8.</p>
+               <p n="4">4. As for the Ancient Fathers, few of them have touched the Queſtion.
+<note place="margin">The Fathers alledged for us.</note> Of them that have; ſome are for the <hi>Affirmative</hi> (though ſome other are cited rather for the <hi>Negative</hi>) whoſe words may be referred, not to the <hi>denial</hi> of that primaeve Sancti<g ref="char:EOLhyphen"/>fication of the Sabbath, but to the <hi>renewing</hi> of it, with additi<g ref="char:EOLhyphen"/>on of Rights and Ceremonies, formerly either unknown, or obliterated.
+<note place="margin">
+                     <hi>Tertullian</hi> al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edged for us.</note> 
+                  <hi>Tertullian</hi> (whoſe words are chiefly urged) al<g ref="char:EOLhyphen"/>though having to do againſt the <hi>Jews,</hi> refers the Inſtitution of the Sabbath to <hi>Moſes</hi> (to ſhew that it did appertain to the Ceremo<g ref="char:EOLhyphen"/>nies of the Law, and therefore to be Antiquated) yet never<g ref="char:EOLhyphen"/>theleſs doth elſewhere acknow<g ref="char:EOLhyphen"/>ledg, that the <hi>Jews</hi> do ſay, <hi>That God did from the beginning of the World, Sanctifie the Seventh
+<pb n="15" facs="tcp:45590:15"/>Day, in reſting from all the Works which he had made. And from thence alſo</hi> Moſes <hi>ſaid to the Peo<g ref="char:EOLhyphen"/>ple REMEMBER THE SABBATH DAY.</hi> So he Adverſ. <hi>Jud.</hi> Cap. 4. Neither doth he deny it to be true, who in his Fourth <hi>Book, Chap.</hi> 11. againſt <hi>Marcion</hi> affirm<g ref="char:EOLhyphen"/>eth, as his own ſence, That <hi>Chriſt himſelf made the Sabbath day,</hi> by his <hi>Fathers Bleſſing, to be Holy from the beginning of the World, and made it more Holy by his own Benefaction.</hi> If ſome others think otherwiſe, in favour of the <hi>Negative,</hi> more and of no leſs Authority may be produced for our <hi>Affirmative,</hi> as <hi>Cl. <g ref="char:V">Ʋ</g>. Wal<g ref="char:EOLhyphen"/>eus</hi> hath Demonſtrated, alledg<g ref="char:EOLhyphen"/>ing the Teſtimony of <hi>Philo.</hi> Lib. 3. <hi>de vita Moſis. Chryſoſtom</hi> Hom.
+<note place="margin">Philo, Chry<g ref="char:EOLhyphen"/>ſoſtom, The<g ref="char:EOLhyphen"/>odoret, Au<g ref="char:EOLhyphen"/>ſtin, <hi>are for us.</hi>
+                  </note> 10. on <hi>Gen. Theodoret.</hi> in his Queſti<g ref="char:EOLhyphen"/>ons on <hi>Geneſis. Auſtin.</hi> Ep. 86. <hi>ad Caſul.</hi> And we ſhall find anon other of the Fathers of the ſame mind.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="16" facs="tcp:45590:16"/>
+               <head>CAP. 2.</head>
+               <argument>
+                  <p>
+                     <hi>Rivets</hi> firſt Argument for us by him defended.</p>
+                  <p n="1">
+                     <hi>1.</hi> The Argument, from <hi>Gen. 2.</hi> ver. <hi>2, 3.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>2. Gomarus</hi> his anſwer.</p>
+                  <p n="3">
+                     <hi>3. Rivets</hi> reply.</p>
+               </argument>
+               <p n="1">1. THE Foundation of the whole Affirmative aſſerti<g ref="char:EOLhyphen"/>on is laid, and that juſtly, in thoſe words, <hi>Gen.</hi> 2. <hi>ver.</hi> 2, 3. Which are, <hi>That the Sabbath was immediately after the finiſhing of the Creation of the World, Inſti<g ref="char:EOLhyphen"/>tuted for</hi> Adam <hi>and his Poſterity, for the Worſhip of God.</hi> For from that place of <hi>Gen.</hi> 2. <hi>ver.</hi> 2, 3. It is manifeſt that God bleſſed the Seventh Day after the Cre<g ref="char:EOLhyphen"/>ation,
+<note place="margin">The grand Queſtion Contro verted</note> and Sanctified it. Now a Queſtion is moved, <hi>Whether he did Sanctifie it juſt then, or whether he deferred it till long
+<pb n="17" facs="tcp:45590:16"/>aft<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e Creation,</hi> viz. <hi>for the ſp<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> of Two thouſand four hun<g ref="char:EOLhyphen"/>dred and fifty three years.</hi> So that the ſenſe of the <hi>Moſaical</hi> Story ſhould be, That <hi>God after his finiſhing</hi> his Six days work, reſted the Seventh. And after Two thouſand four hundred fifty three years God bleſſed a like day, and Sanctified it to, or for ſacred uſe. And of Ne<g ref="char:EOLhyphen"/>ceſſity this muſt be the ſenſe, of thoſe men who do ſo much diſ<g ref="char:EOLhyphen"/>joyn thoſe words, [<hi>He Finiſhed, Reſted, Bleſſed,</hi> and <hi>Sanctified</hi>] as that they refer the <hi>former</hi> words to the time of the <hi>begin<g ref="char:EOLhyphen"/>ning</hi> of the World, the later words to the time of <hi>Moſes</hi> giv<g ref="char:EOLhyphen"/>ing the Law. But we ſtand to it, That all thoſe words which are conjoyned by a <hi>Copulative,</hi> are not to be torn aſunder, to ſo great a diſtance. For ſeeing <hi>Moſes</hi> diſcourſeth of the Seventh day after the Creation (I ſay
+<pb n="18" facs="tcp:45590:17"/>the firſt Seventh) that is <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ne<g ref="char:EOLhyphen"/>diatly following after the <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſt</hi> ſix days; It ſeemed neceſſary to us, that the ſame day which was the Seventh from the Creation, was the day of <hi>Reſt,</hi> and of San<g ref="char:EOLhyphen"/>ctifing it.</p>
+               <p n="2">
+                  <note place="margin">The Pro<g ref="char:EOLhyphen"/>poſition.</note> 2. The force of <hi>Gomarus</hi> his anſwer he gives us in this <hi>Syllo<g ref="char:EOLhyphen"/>giſme:</hi> that which in <hi>Gen.</hi> 2. <hi>ver.</hi> 2.3. is neither expreſly aſſerted, <hi>nor is by any circumſtances of that Scripture evinced, that cannot be proved by it.</hi>
+               </p>
+               <p>
+                  <note place="margin">The Aſ<g ref="char:EOLhyphen"/>ſumption.</note> 
+                  <hi>But that the Sabbath was In<g ref="char:EOLhyphen"/>ſtituted at that very time, when at firſt the Creation of the World was finiſhed, is ſuch a thing was in</hi> Gen. 2. <hi>Is neither expreſly aſſer<g ref="char:EOLhyphen"/>ted, nor is by any circumſtances of that Scripture evinced;</hi>
+               </p>
+               <p>
+                  <hi>Therefore out of that place of Scripture it cannot be proved.</hi>
+               </p>
+               <p n="1">1. <hi>Rivet's</hi> Reply. The truth of the <hi>Propoſition</hi> we grant, as clearer then the Sun; But the
+<pb n="19" facs="tcp:45590:17"/>truth of the <hi>Aſſumption</hi> we deny. And thoſe things that are brought by <hi>Gomarus</hi> for the con<g ref="char:EOLhyphen"/>trary, do not at all eradicate our Aſſertions, but are meer ſup<g ref="char:EOLhyphen"/>poſitions without proof. Name<g ref="char:EOLhyphen"/>ly, <hi>That theſe things,</hi> Gen. 2. <hi>are not inſerted by</hi> Moſes, <hi>as if at that very time they had been done; but to ſhew that this Hiſto<g ref="char:EOLhyphen"/>ry of the finiſhing of the World,</hi> and of the Divine reſt on the Seventh day might be kept in perpetual Memory by the <hi>Iſrae<g ref="char:EOLhyphen"/>lites.</hi> So he, As if both may not be, <hi>viz.</hi> The <hi>thing done,</hi> and the memory of it kept in mind alſo. For ſubordinate things are not contrary. This for a taſt of the Firſt Argument.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="20" facs="tcp:45590:18"/>
+               <head>CAP. III.</head>
+               <argument>
+                  <p>
+                     <hi>Rivet's</hi> Second Argument for us, That the Sabbath was Inſti<g ref="char:EOLhyphen"/>tuted from the Beginning of the World, and by him de<g ref="char:EOLhyphen"/>fended.</p>
+                  <p n="1">
+                     <hi>1.</hi> The Argument from <hi>Heb. 4.1. &amp;c.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>2. Gomarus</hi> his Anſwer.</p>
+                  <p n="3">
+                     <hi>3. Rivets</hi>'s Keply.</p>
+               </argument>
+               <p n="1">
+                  <note place="margin">
+                     <hi>Rivets</hi> Ar<g ref="char:EOLhyphen"/>gument in a <hi>Rhetori<g ref="char:EOLhyphen"/>cal</hi> way.</note> 1. THE Argument is from the Epiſtle to the <hi>Heb.</hi> Chap. 4. <hi>v.</hi> 1. <hi>&amp;c.</hi> And is this; <hi>When the Apoſtle would deſcribe the Spi<g ref="char:EOLhyphen"/>ritual Rest, promiſed by God, and would ſhew it was another Rest, different from the Sabbatiſme which the</hi> Jews <hi>obſerved according to the Law; And alſo different from the Rest in the Land of</hi> Ca<g ref="char:EOLhyphen"/>naan (<hi>into which</hi> Joſhua <hi>conduct<g ref="char:EOLhyphen"/>ed the People,</hi>) he ſaith, thoſe words in <hi>Pſal.</hi> 95. v. 11. <hi>[<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſware,
+<pb n="21" facs="tcp:45590:18"/>IF THEY SHALL ENTER INTO MY REST] were pronoun<g ref="char:EOLhyphen"/>ced by</hi> David, <hi>although the works of God were finiſhed from the Foundations of the World,</hi> where he citeth that place in <hi>Gen.</hi> 2. <hi>And ſheweth, That the promiſe of Reſt made to the Believers, in<g ref="char:EOLhyphen"/>cluded in the threatning made to the <g ref="char:V">Ʋ</g>nbelievers (of excluding them from the Rest) cannot be underſtood of the Reſt of the SABBATH, becauſe now the works of God having been finiſhed from the Foundations of the World, God had reſted the Seventh day from all his Works.</hi> From all which follows, That the Reſt of the the SABBATH day began (ac<g ref="char:EOLhyphen"/>cording to the Apoſtle) from the finiſhing of God's Works after the Sixth day. For it ſhews that men, <hi>even then,</hi> entred into <hi>that Reſt,</hi> from the time the <hi>World was finiſhed.</hi> For in vain he had ſaid theſe words <hi>[From the finiſhing
+<pb n="22" facs="tcp:45590:19"/>of the works of God from the Foundation of the World.]</hi> if THAT SABBATH began after Two thouſand years, and more.</p>
+               <p n="2">2. <hi>Gomarus</hi> in anſwer to this Argument ſaith, That it nothing moves him; not through forget<g ref="char:EOLhyphen"/>fulneſs of that place of Scrip<g ref="char:EOLhyphen"/>ture; nor for want of a ſolid anſwer; but becauſe he could not obſerve in it, any mention at all concerning the Sabbath for Reſt, and the Worſhip of God. And adds further, No Argument (he believes) could be thence drawn, but ſuch as would be abſurd and void of any co<g ref="char:EOLhyphen"/>lour of an Argument.</p>
+               <p n="3">3. To this <hi>Rivet</hi> replies, Theſe words (ſaith he) of Extenuation and contempt <hi>Gomarus</hi> oppoſeth to our words, which we objected as of great moment to the mat<g ref="char:EOLhyphen"/>ter in hand. The Apoſtles Ar<g ref="char:EOLhyphen"/>gument
+<pb n="23" facs="tcp:45590:19"/>appears to be this.
+<note place="margin">
+                     <hi>Rivet's</hi> Ar<g ref="char:EOLhyphen"/>gument in a <hi>Syllogiſti<g ref="char:EOLhyphen"/>cal</hi> way.</note>
+               </p>
+               <p>God by the mouth of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> excludes Unbelievers from his Reſt.</p>
+               <p>But he doth not exclude them from that Reſt with which he reſted from the Foundations of the World, after the finiſhing of the Works of Creation; becauſe that Reſt was now long ſince paſt. Nor doth he exclude them from the Reſt in the Land of <hi>Canaan,</hi> becauſe many Unbelie<g ref="char:EOLhyphen"/>vers entred into it.</p>
+               <p>Therefore, There remains a Third Sabbatiſme into which they ſhall not enter.</p>
+               <p>The force of our Argument in that, conſiſteth, That no rea<g ref="char:EOLhyphen"/>ſon can be given, why the Apo<g ref="char:EOLhyphen"/>ſtle ſhould except that Reſt from the Foundations of the World, If it no ways appertained to men; and if under the <hi>reſt of God,</hi> he
+<pb n="24" facs="tcp:45590:20"/>did not underſtand that which he preſcribed to men by his own example, that he might ſhew that Reſt not to be it, of which <hi>David</hi> ſpeaks; becauſe <hi>David</hi> could not promiſe that Reſt which from the Beginning of the World was by Gods Exam<g ref="char:EOLhyphen"/>ple Inſtituted by, or in the Sancti<g ref="char:EOLhyphen"/>fication thereof. Amd thus ye have a touch of <hi>Rivets</hi> 2 <hi>Argum.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="25" facs="tcp:45590:20"/>
+               <head>CAP. IV.</head>
+               <argument>
+                  <p>
+                     <hi>Rivet's</hi> Third Argument for us by him defended.</p>
+                  <p n="1">
+                     <hi>1.</hi> The Argument from the Piety of the Patriachs.</p>
+                  <p n="2">
+                     <hi>2. Gomarus</hi> his Anſwer.</p>
+                  <p n="3">
+                     <hi>3. Rivet's</hi> Reply.</p>
+               </argument>
+               <p n="1">1. THE Third <hi>Argum.</hi> (taken from Reaſon) was this, <hi>The Patriarchs, and other Believers before</hi> Moſes, <hi>according to their Piety towards God, had their ſet times for Religion and Reforma<g ref="char:EOLhyphen"/>tion according to their Power.</hi> Therefore <hi>they obſerved the Se<g ref="char:EOLhyphen"/>venth day of the week for that purpoſe.</hi>
+               </p>
+               <p>Which may be propounded otherwiſe, <hi>viz</hi> as <hi>Wallaeus</hi>
+                  <note n="*" place="margin">
+                     <hi>Cap.</hi> 3. Diſſert.</note> pro<g ref="char:EOLhyphen"/>pounds it. <hi>Nullo modo</hi> (ſaith he) <hi>&amp;c.</hi> that is, <hi>It is no way likely the Patriarchs all that while, that Two thouſand years and upward ran
+<pb n="26" facs="tcp:45590:21"/>out, had no ſet times, wherein they might remember the benefits of God in the Creation of Heaven and Earth;</hi>
+                  <note place="margin">N. B.</note> 
+                  <hi>or that they might give to God a publick Worſhip; or give to themſelves and their Ge<g ref="char:EOLhyphen"/>nerations outward helps or means towards Piety (when as concern<g ref="char:EOLhyphen"/>ing the Worſhip it ſelf which they exhibited, there is frequent men<g ref="char:EOLhyphen"/>tion); or wherein they might per<g ref="char:EOLhyphen"/>mit a breathing and reſpit to their Servants, Hand-maid, and Cat<g ref="char:EOLhyphen"/>tel.</hi>
+                  <note place="margin">N. B.</note> 
+                  <hi>If therefore they had any fixed time, it is altogether Con<g ref="char:EOLhyphen"/>ſentaneous to reaſon, that they would uſe that day, of the Sancti<g ref="char:EOLhyphen"/>fication whereof there was extant ſo perſpicuous a Teſtimony; and not any other days, of which there is no footſtep to be found in all the Old Teſtament.</hi>
+               </p>
+               <p>The ſame thing did
+<note n="*" place="margin">
+                     <hi>Com.</hi> in 4 Precep.</note> 
+                  <hi>Calvin</hi> before that inſinuate, <hi>When</hi> God (ſaith he) <hi>delivered to the Saints the Right of Sacrificing, it is not
+<pb n="27" facs="tcp:45590:21"/>Credible, That the obſervation of the Sabbath was omitted. But by reaſon of the pravity of Human diſpoſition, that which among the prophane</hi> Gentiles <hi>was utterly ex<g ref="char:EOLhyphen"/>tinct, and in the Of-ſpring of</hi> Abraham <hi>was almoſt worn out of uſe, God renewed by his Law, that the Sabbath ſhould be honoured with an holy and inviolable Ob<g ref="char:EOLhyphen"/>ſervation.</hi>
+               </p>
+               <p n="2">2. <hi>Gomarus</hi> Anſwers; That which with <hi>Calvin</hi> was not <hi>Cre<g ref="char:EOLhyphen"/>dible,</hi> is with <hi>Gomarus</hi> not only <hi>Credible,</hi> but alſo the conſe<g ref="char:EOLhyphen"/>quence, <hi>from Godly mens Worſhip<g ref="char:EOLhyphen"/>ing</hi> to that day, wherein God reſted, or from God's example, <hi>is infirm; becauſe nothing hinders but that they might convene at ſome other convenient time for their publick Exerciſe of Religion.</hi>
+               </p>
+               <p n="3">3. <hi>Rivets</hi> Anſwer by way of retortion, thus; It is Manifeſt
+<pb n="28" facs="tcp:45590:22"/>then (ſaith he) that among all thoſe that Convened for Publick Worſhip they Convened in a <hi>Convenient</hi> time.</p>
+               <p>The <hi>Queſtion</hi> now is,
+<note place="margin">Qu.</note> what is that time? which ordinary day was it? We who have known that God reſted the Seventh day, which the Authors of the contrary Judgment cannot de<g ref="char:EOLhyphen"/>ny; who alſo confeſs, That God preſcribed to the People of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> the Seventh day for Pub<g ref="char:EOLhyphen"/>lick Worſhip, becauſe in it he reſted, doth ſeem to us not ill to Collect, That it is <hi>Credible,</hi> that the firſt Fathers were taught of God concerning the manner of Worſhip. And from the ſame God, received the Religion of that Day. Thus ye have a glance of <hi>Rivet's</hi> Third Argument.</p>
+               <p>The reſt of <hi>Rivet's</hi> Arguments for the <hi>Original of the Sabbath to have been from the Beginning of the World</hi> I ſhall omit, and
+<pb n="29" facs="tcp:45590:22"/>diſmiſs untoucht, both becauſe <hi>Rivet</hi> himſelf confeſſeth, That they are not of any great mo<g ref="char:EOLhyphen"/>ment, if the Three former and chiefer would not prevail: as alſo becauſe I here give the Rea<g ref="char:EOLhyphen"/>der notice that the main of them would be touched in our ESSAY.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="30" facs="tcp:45590:23"/>
+               <head>CAP. V.</head>
+               <argument>
+                  <p>
+                     <hi>D. Heylyn</hi> is Oppoſed, in the Matter and Subſtance of the preſent Queſtion of the Ori<g ref="char:EOLhyphen"/>ginal of the Sabbath.</p>
+                  <p n="1">
+                     <hi>1.</hi> By Learned Dr. <hi>Willet.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>2.</hi> By Worthy Mr <hi>Weemes,</hi> both which contend for the Truth, not in ſingle Combat with every particular oppo<g ref="char:EOLhyphen"/>ſed, but to aſſert and cor<g ref="char:EOLhyphen"/>roborate in groſs and in com<g ref="char:EOLhyphen"/>mon the main of the Con<g ref="char:EOLhyphen"/>troverſy.</p>
+               </argument>
+               <p n="1">1. <hi>HEylyn</hi>
+                  <note n="*" place="margin">In his Hi<g ref="char:EOLhyphen"/>ſtory of the Sabbath.</note> makes the Chal<g ref="char:EOLhyphen"/>lenge, That thoſe words, <hi>Gen. 2. And God bleſſed the Se<g ref="char:EOLhyphen"/>venth day, &amp;c.</hi> are there deli<g ref="char:EOLhyphen"/>vered by way of <hi>Anticipation.</hi> Anticipations (ſaith he) of the ſame nature not ſtrange in Scrip<g ref="char:EOLhyphen"/>ture. No Law impoſed by God on <hi>Adam,</hi> touching keeping of
+<pb n="31" facs="tcp:45590:23"/>the Sabbath. The Fathers afore the Law kept not the Sabath, <hi>&amp;c.</hi> So <hi>Heylyn, Verba ſine rebus.</hi>
+               </p>
+               <p n="2">2. Doctor <hi>Willet's</hi> Anſwer.</p>
+               <p>
+                  <hi>Willet</hi>
+                  <note place="margin">On <hi>Ger.</hi> 2. v. 3.14.</note> in oppoſition there<g ref="char:EOLhyphen"/>unto, on <hi>Gen.</hi> 2.4. Cites and Aſſerts as follows. <q rend="margQuotes">Here we have the Inſtitution of the Sabbath (ſaith <hi>Willet</hi>) which af<g ref="char:EOLhyphen"/>terward was revivd by the pro<g ref="char:EOLhyphen"/>mulgation of the Moral Law. We refuſe therefore the erro<g ref="char:EOLhyphen"/>neous Opinion of <hi>Toſtatus,</hi> and
+<note n="*" place="margin">In <hi>Gen. Lib.</hi> 1. p. 223.</note> 
+                     <hi>Pererius</hi> (two Popiſh Authors) who think that this <hi>Sancti<g ref="char:EOLhyphen"/>fying of the Sabbath,</hi> is here mentioned by way of <hi>Antici<g ref="char:EOLhyphen"/>pation,</hi> being not Inſtituted till the time of <hi>Moſes.</hi> For (ſay they) every day to man in the ſtate of Innocency ſhould have been a Sabbath. Neither was there any poſitive Precept gi<g ref="char:EOLhyphen"/>ven to <hi>Adam</hi> in <hi>Paradiſe,</hi> but
+<pb n="32" facs="tcp:45590:24"/>only that of not eating the forbidden fruit. But in this affirming they are groſly decei<g ref="char:EOLhyphen"/>ved. 1. Man had now Tranſ<g ref="char:EOLhyphen"/>greſſed before the Sabbath was Inſtituted (as after ſhall be proved). And therefore they do out of time urge the State of Man's Innocency. 2. If Man had continued in that State, ſeeing he was appointed <hi>to keep the Garden,</hi> and not to live idly, no not in <hi>Paradiſe;</hi> it is moſt like, that even then he ſhould have kept the Sab<g ref="char:EOLhyphen"/>bath, as a reſt and Intermiſſion, even from ſuch Labour, as be<g ref="char:EOLhyphen"/>came that place; and as a Symbole unto him of a further perfection to be attained unto. 3. That the Sabbath was In<g ref="char:EOLhyphen"/>ſtituted now, the Creation be<g ref="char:EOLhyphen"/>ing finiſhed, it may appear by the Fourth Commandement, <hi>Exod.</hi> 20.11. where this Rea<g ref="char:EOLhyphen"/>ſon of the Law is given, <hi>For
+<pb n="33" facs="tcp:45590:24"/>in Six days the Lord made Hea<g ref="char:EOLhyphen"/>ven and Earth &amp;c.</hi> 4. It is alſo evident that the Sabbath was kept by Godly Tradition before the Moral Law was gi<g ref="char:EOLhyphen"/>ven, as appeares <hi>Exod.</hi> 16.23. <hi>To morrow is the Rest of the holy Sabbath to the Lord.</hi>
+                     <note place="margin">N. B.</note> 5. Thus the ancient Fathers (<hi>Jerom, Auſtin,</hi>
+                     <note place="margin">The anci<g ref="char:EOLhyphen"/>ent Fa<g ref="char:EOLhyphen"/>thers al<g ref="char:EOLhyphen"/>ledged.</note> and <hi>Origen</hi>) ground the Inſtitution of the Sabbath, upon God's Example in this place, <hi>Jerom.</hi> trad. in <hi>Gen.</hi> 2. <hi>Auſt.</hi> Pſ. 80. And <hi>Ori<g ref="char:EOLhyphen"/>gen</hi> thus anſwereth <hi>Celſus,</hi> Lib. 6. objecting, If God were weary, that he need to reſt; <hi>God reſted</hi> (ſaith he) <hi>that we reſting from our labour ſhould celebrate that day.</hi>
+                  </q>
+               </p>
+               <p>Thus of Doctor <hi>Willet.</hi> Of <hi>Weemes</hi> in Chap. 6.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="34" facs="tcp:45590:25"/>
+               <head>CAP. VI.</head>
+               <argument>
+                  <p>Now for a cloſe, let us hear Learned <hi>Weems,</hi> ſpeaking punctually and fully to the Queſtion; in his Exercita<g ref="char:EOLhyphen"/>tions divine Command. <hi>4. p. 229.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> 
+                  <hi>Q<g ref="char:V">Ʋ</g>eſtion,</hi> Whether the Sab<g ref="char:EOLhyphen"/>bath was from the begin<g ref="char:EOLhyphen"/>ing, or not?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſ. </seg>
+                  </label> 
+                  <hi>The Lord ſetteth down his Ex<g ref="char:EOLhyphen"/>ample for Imitation to us, be<g ref="char:EOLhyphen"/>cauſe he rested that day, that we may learn, That the</hi> Inſtitution of the Sabbath was from the be<g ref="char:EOLhyphen"/>ginning.</p>
+               <p>Which is contrary to them, who hold, That the Sabbath was not ordained to be kept, till after the Lord had rained down <hi>Manna,</hi> Ex. 16.</p>
+               <pb n="35" facs="tcp:45590:25"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label> And they ſay, that theſe words <hi>[The Lord reſted from all his Works the Seventh day]</hi> were a Reaſon added to <hi>Moſes</hi>'s Sab<g ref="char:EOLhyphen"/>bath, when the Law was given, but not to <hi>Adams</hi>'s Sabbath be<g ref="char:EOLhyphen"/>fore the Fall.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> 
+                  <hi>But we anſwer; In the reaſons of the Commands there is ſome<g ref="char:EOLhyphen"/>thing</hi> Natural <hi>from the Begining, and ſomething added by</hi> Moſes, <hi>As in the reſpect of the</hi> 5th. <hi>Com<g ref="char:EOLhyphen"/>mandement, this was</hi> (Juris Na<g ref="char:EOLhyphen"/>turae) <hi>of natural right, given to</hi> Adam, <hi>and all his Poſterity, viz.</hi> Honour thy Father and thy Mo<g ref="char:EOLhyphen"/>ther THAT THY DAYS MAY BE LONG, <hi>that is, live happily here, and then to be Tranſlated to another life; But his was</hi> (Juris Moſaici) <hi>of Moſaical right,</hi> That thy days may be long in THE LAND WHITHER THOU ART TO GO: <hi>So this was</hi> (Ju<g ref="char:EOLhyphen"/>ris Naturae) <hi>of Natural Right,
+<pb n="36" facs="tcp:45590:26"/>in the Reaſon added to the Sab<g ref="char:EOLhyphen"/>bath,</hi> Thou ſhalt reſt from all thy Works, <hi>becauſe</hi> God reſted from his Works: <hi>But this is only</hi> (Juris Moſaici) <hi>only of Moſaical Right, That the Sabbath ſhould be</hi> a Sign between God and them; <hi>and belongeth not to</hi> Adam's <hi>Sab<g ref="char:EOLhyphen"/>bath,</hi> Ezek. 20.10. I brought them out of <hi>Egypt,</hi> and gave them my Sabbaths, that they might be a ſign between me and them. <hi>The Sabbath was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> particular Sign to them, of their bringing out of</hi> Aegypt. <hi>And they ſhould always remember to keep it, becauſe the Lord brought them out of</hi> Aegypt. <hi>The Sab<g ref="char:EOLhyphen"/>bath was from the Beginning; but it was acceſſory to the</hi> Jewiſh <hi>Church, that it was made a Sign; as the</hi> Rainbow <hi>was from the Beginning (the Reflex of the Sun in a Cloud); But it was not a Sign to the World until the De<g ref="char:EOLhyphen"/>luge.</hi>
+               </p>
+               <pb n="37" facs="tcp:45590:26"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>2</label> But they ſay, we read nothing in the whole Hiſtory of <hi>Geneſis,</hi> of the Sabbath, or that any of the <hi>Patriarcks</hi> kept it.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſ. </seg>
+                  </label> 
+                  <hi>We read nothing that the Adul<g ref="char:EOLhyphen"/>terous, and Inceſtuous perſons were put to Death before</hi> Judah's time.
+<note place="margin">N. B.</note> 
+                  <hi>Did the Patriarches ſuffer this ſin to be unpuniſhed all this time? And is it probable, that the Holy Men of God, who Sacri<g ref="char:EOLhyphen"/>ficed to the Lord and Worſhiped him, had not a certain</hi> time <hi>for his Worſhip determined to them? The Lord Sanctified the Sabbath as ſoon as he had reſted from his Works, and ſet up the Sun, and the Moon</hi> Lemaguadim (<hi>which is the</hi> Hebrew <hi>word uſed afterwards, in the Law, for the holy Conven<g ref="char:EOLhyphen"/>tion</hi>) ad ſtata tempora. <hi>i. e. Set appointed times. What appoint<g ref="char:EOLhyphen"/>ed times were then for his Wor<g ref="char:EOLhyphen"/>ſhip,
+<note place="margin">N. B.</note> if not the Sabbath? For as yet they had none of their</hi> Aniver<g ref="char:EOLhyphen"/>ſary <hi>Feasts.</hi>
+               </p>
+               <pb n="36" facs="tcp:45590:27"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="37" facs="tcp:45590:27"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="36" facs="tcp:45590:28"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="37" facs="tcp:45590:28"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:45590:29"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>3</label> Again they ſay, That the words ſet down in this Law <hi>[That thou mayſt reſt, and thy Servant may reſt]</hi> belonged not to <hi>Adam's</hi> Sabbath; For <hi>Adam</hi> be<g ref="char:EOLhyphen"/>fore the Fall was not wearied; and there ſhould have been no ſervile Subjection before the Fall. Therefore theſe words be<g ref="char:EOLhyphen"/>long only to <hi>Moſes</hi>'s Sabbath.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label>
+                  <hi>Although</hi> Adam <hi>ſhould not have been wearied in dreſſing of the Garden, yet it behoved him to reſt, that he might exerciſe himſelf on<g ref="char:EOLhyphen"/>ly in the Worſhip of God. And though ſervile Subjection came in after Sin, yet if Man had not Fallen, there ſhould have been degrees of Superiority, and Infe<g ref="char:EOLhyphen"/>riority; And there ſhould have been diſtinction of Sexes and dignities,</hi> &amp;c.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>4</label>
+                  <hi>John</hi> 7.22. Chriſt maketh an oppoſition between two Laws,
+<pb n="39" facs="tcp:45590:29"/>one of <hi>Circumciſion,</hi> and another of the Sabbath. And he ſaith, <hi>Circumciſion</hi> is kept, not becauſe <hi>Moſes</hi> Inſtituted <hi>Circumciſion,</hi> but becauſe it was from the <hi>Fathers:</hi> And becauſe <hi>Moſes</hi>'s Law of the Sabbath was given after the Law of <hi>Circumciſion,</hi> therefore it is that Infants are <hi>Circumciſed</hi> upon the Sabbath, and yet the Sabbath is not broken.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label>
+                  <hi>The Sabbath was given after</hi> Circumciſion <hi>with the rest of the</hi> Ceremonies <hi>belonging to it; which Chriſt eſpecially meaneth here: But the</hi> Moral <hi>part was given to</hi> Adam <hi>before his Fall. He mak<g ref="char:EOLhyphen"/>eth Oppoſition here but between the</hi> Ceremony of Circumciſion, <hi>and the</hi> Ceremony of the Sabbath; <hi>The leſs neceſſary Ceremony to give place to the greater. And the</hi> Jews <hi>ſay, when a Child was to be Circumciſed upon the Sabbath,
+<pb n="40" facs="tcp:45590:30"/>yet the morning Sacrifice behoved to be Offered first, before the Child was Circumciſed; and then all the reſt of the Ceremonial Worſhip in the Sabbath, gave place to</hi> Circum<g ref="char:EOLhyphen"/>ciſion.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>5</label> And whereas they urge us, That there is no Example of the <hi>Patriarches</hi> who kept the Sabbath before the <hi>Manna</hi> was ſent down.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> 
+                  <hi>It may ſeem out of</hi> Job, <hi>That they kept the Sabbath in his time (which was before the Law was given) It is ſaid, Job</hi> had Se<g ref="char:EOLhyphen"/>ven Sons;
+<note place="margin">N. B.</note> and they went and Feaſted in their Houſes, every one his day, <hi>Job.</hi> 1.4. <hi>And then it is ſubjoyned,</hi> Job 1.6. That there was a day when the Sons of God came to preſent them<g ref="char:EOLhyphen"/>ſelves before the Lord. Now who were the <hi>Sons of God</hi> here, <hi>but</hi> Job's <hi>Children?</hi>
+                  <note place="margin">N. B.</note> 
+                  <hi>who Aſſembled
+<pb n="41" facs="tcp:45590:30"/>themſelves to worſhip God, upon the Seventh day.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label> They ſay, that theſe words <hi>[God reſted]</hi> the Seventh day, and Sanctified the Sabbath a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſet down (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) by way <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Anticipation;</hi> becauſe God pro<g ref="char:EOLhyphen"/>miſed to Sanctifie that day af<g ref="char:EOLhyphen"/>terwards.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> 
+                  <hi>This carries no probability with it, that God is ſaid to Sanctifie it, becauſe he was purpoſed to Sacti<g ref="char:EOLhyphen"/>fie it afterwards. For then he might be ſaid to Sanctifie</hi> Moriah <hi>when he Created it, becauſe af<g ref="char:EOLhyphen"/>terwards he was to build the Tem<g ref="char:EOLhyphen"/>ple there; and to Sanctifie the</hi> Paſcha, <hi>and the</hi> Pentecoſt, <hi>becauſe afterwards he was to appoint them for holy uſes.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="essay">
+            <pb facs="tcp:45590:31"/>
+            <pb n="42" facs="tcp:45590:31"/>
+            <head>THE Sunday-Sabbath's Reſt FROM CONTROVERSIES.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of the Theſis or Poſition.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Section</hi> I.</head>
+                  <p>THE Theſis or Poſition]: Our <hi>Sunday-Sabbath</hi> or <hi>Lords-day</hi> is the very ſame day of the week, which was anciently obſerved by <hi>Jews</hi> and <hi>Gentiles,</hi> for the Solemn day of their Solemn weekly Worſhip, before <hi>Iſraels</hi> coming out of <hi>Aegypt;</hi> and after that by the <hi>Gentiles.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="44" facs="tcp:45590:32"/>
+                  <head>
+                     <hi>Sect.</hi> II.</head>
+                  <p>The explanation of the The<g ref="char:EOLhyphen"/>ſis] 1. We call it <hi>Sunday.</hi> 1. Be<g ref="char:EOLhyphen"/>cauſe it is vulgarly ſo called, and beſt known by the genera<g ref="char:EOLhyphen"/>lity of the Nation. 2. Becauſe the <hi>Jews</hi> anciently ſo called it, and obſerved it, in memorial of God (their <hi>Sun</hi>
+                     <note n="*" place="margin">
+                        <hi>Pſ.</hi> 84.11.</note>
+) Creating the World, and that eminenteſt part thereof the <hi>Sun.</hi>
+                     <note n="*" place="margin">
+                        <hi>Exod.</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0.11. If ſo long after the Creati<g ref="char:EOLhyphen"/>on, no don't but anciently nea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the Crea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion.</note> 3. Becauſe the <hi>Gentiles</hi> of old called it <hi>Sun<g ref="char:EOLhyphen"/>day;</hi> though upon an ill occa<g ref="char:EOLhyphen"/>ſion; that they on that day Wor<g ref="char:EOLhyphen"/>ſhiped the <hi>Sun.</hi> But it is to our purpoſe to note the <hi>number</hi> of the day, not the <hi>iniquity;</hi> the <hi>obſervation,</hi> not the miſapplica<g ref="char:EOLhyphen"/>tion of the day.</p>
+                  <p n="2">¶. 2. We call it <hi>Sabbath.</hi> 1. Becauſe many Chriſtians ſo call it, and own it, againſt all <hi>Jewiſh</hi> Saturday Sabbatarians.
+<pb n="45" facs="tcp:45590:32"/> 2. Becauſe the Word (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>Sabbath,</hi> ſignifies <hi>reſt:</hi> which reſt for Body and Soul we have moſtly on this day. 3. Becauſe in ſome way of proportion, the time of our Sabbath day an<g ref="char:EOLhyphen"/>ſwers to that of the <hi>Jews;</hi> both being a Seventh day of the week.</p>
+                  <p n="3">¶. 3. We call it <hi>The Lord's day:</hi> 1. Becauſe the Scripture ſo calls it. <hi>I was</hi> (ſaith St. <hi>John</hi> the Diſciple of Chriſt) <hi>in the Spirit on the LORDS DAY</hi>
+                     <note n="*" place="margin">
+                        <hi>Rev.</hi> 1.10.</note> mean<g ref="char:EOLhyphen"/>ing our Sabbath or Sunday, which we call the Lord's day. For ſurely if (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>the Lords Supper</hi> doth ſufficiently diſtinguiſh that Spiritual Supper of the <hi>Communion,</hi> to all ingenu<g ref="char:EOLhyphen"/>ous men from all common Sup<g ref="char:EOLhyphen"/>pers, then ſo doth (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>the Lord's day</hi> ſufficiently diſtin<g ref="char:EOLhyphen"/>guiſh to all, not willfully blind, that ſpecial day from all other
+<pb n="43" facs="tcp:45590:33"/>days. For it follows, <hi>2ly.</hi> That we call our Sabbath <hi>the Lord's day,</hi> becauſe it was the day of the <hi>Lord Christ's</hi> Reſurrection from the Dead; wherein he reſted from his Sufferings. and we thereby from our Sins and Condemnation. 'Tis true, That the day of Chriſt's Reſurrection is by the ſame Apoſtle called the <hi>First day of the week</hi>
+                     <note n="*" place="margin">
+                        <hi>Joh.</hi> 20.1.</note> But 'tis as true, That this ſame <hi>Firſt day</hi> was the <hi>Jews</hi> and <hi>Gentiles</hi> Sabbath for Two thouſand four hundred fifty four years, <hi>viz.</hi> From the Creation, to the reduction of <hi>Iſrael</hi> our <hi>Aegypt;</hi> and was the <hi>Gentiles</hi> Sabbath long after that. <hi>3ly.</hi> We call it the <hi>Lord's Day,</hi> becauſe on that day in every week we ſo<g ref="char:EOLhyphen"/>lemnly worſhip the <hi>Lord Christ</hi> with the Goſpel Worſhip, which the <hi>Lord himſelf</hi> hath Inſtitut<g ref="char:EOLhyphen"/>ed.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="46" facs="tcp:45590:33"/>
+                  <head>
+                     <hi>Sect.</hi> 3.</head>
+                  <p>The probation or proof of the ſaid Theſis] being made good by the orderly ſucceeding of the following Chapter,
+<note place="margin">N. B.</note> the lat<g ref="char:EOLhyphen"/>ter ſtrengthning the former; it may be hoped, that according to the TITLE, there will fol<g ref="char:EOLhyphen"/>low a ceſſation, and reſt of all Controverſies about the Sunday Sabbath, or the Lord's day, ei<g ref="char:EOLhyphen"/>ther by the <hi>Quotidian</hi> or <hi>Hemeri<g ref="char:EOLhyphen"/>on Sabbatarians,</hi> that pretend no one day, but every day ſhould be as a Sabbath. Or by the <hi>Plurian Sabbatarians,</hi> that would not have all days to be Sabbaths; but would have more then one day in Seven. Or by the <hi>Pro<g ref="char:EOLhyphen"/>ſabbatarians,</hi> that are wholy for the <hi>Jewiſh</hi> Sabbath. Or by the <hi>Antiſabbatarians</hi> that are againſt the <hi>Jewiſh</hi> Sabbath, in the be<g ref="char:EOLhyphen"/>half of the <hi>Chriſtian</hi> Sabbath.
+<pb n="48" facs="tcp:45590:34"/>Or touching the <hi>morality</hi> of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sabbath in general. Or touch<g ref="char:EOLhyphen"/>ing the <hi>warrantrie of Chriſtian Lord's day</hi> Sabbath. Or touch<g ref="char:EOLhyphen"/>ing the Scruple, whether to cal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the day of Solemn Worſhip <hi>Sunday,</hi> or <hi>Sabbath day,</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Lord's day.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="49" facs="tcp:45590:34"/>
+               <head>
+                  <hi>CHAP. II.</hi> Of the Natural and Artificial day.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> 1.</head>
+                  <p>THE Natural day of Twen<g ref="char:EOLhyphen"/>ty four hours (as it is vulgarly called) is with any peo<g ref="char:EOLhyphen"/>ple, the ſpace of time between Sun-riſing, and Sun-riſing; or between Sun-ſetting, and Sun-ſetting: called by the Learned the Horizontal day.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>Sect.</hi> 2.</head>
+                  <p>The parts of this <hi>Natural</hi> day are two. The one is the <hi>Arti<g ref="char:EOLhyphen"/>ficial</hi> day, that is, the days Light. The other part is (by relative conſequence) the Artificial night, that is the Nights darkneſs, be<g ref="char:EOLhyphen"/>longing to that day. So that the
+<pb n="50" facs="tcp:45590:35"/>Artificial day is the whole ſpace between Sun-riſing and Sun-ſetting.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CAP. III.</hi> Of the ancient beginning of the Natural day.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> 1.</head>
+                  <p>THE Artificial day, or Day<g ref="char:EOLhyphen"/>light was anciently before <hi>Iſraels</hi> going out of <hi>Aegypt,</hi> count<g ref="char:EOLhyphen"/>ed the beginning, or former part of the <hi>Natural</hi> day; and the Night the latter part of the ſaid natural day. This appears three ways.</p>
+                  <p>¶. 1. In that when the parts of the <hi>Natural</hi> day are mentio<g ref="char:EOLhyphen"/>ned in Scripture, before <hi>Iſraels</hi> coming out of <hi>Aegypt,</hi> the Mor<g ref="char:EOLhyphen"/>ning was ſet before the Night.
+<pb n="51" facs="tcp:45590:35"/>
+                     <hi>Gen.</hi> 1.16, 17, 18. <hi>God made two great Lights, the greater Light to rule the</hi> DAY, <hi>and the leſſer Light to rule the Night, he made alſo the Stars. And God ſet them in the Firmament of Heaven. And to rule over the</hi> DAY, <hi>and over the</hi> NIGHT, <hi>and to divide the</hi> LIGHT <hi>from the</hi> DARKNESS. Likewiſe in <hi>Gen.</hi> 7.4. <hi>Yet ſeven</hi> DAYS <hi>and I will cauſe it to rain upon the Earth forty</hi> DAYS <hi>and forty Nights.</hi> And <hi>verſ.</hi> 12. <hi>The rain was upon the Earth forty</hi> DAYES <hi>and forty Nights. Item</hi> Gen. 8. laſt. <hi>While the Earth remains, Seed-time and Harveſt, and cold and heat, and Summer and Winter, and</hi> DAY <hi>and Night ſhall not ceaſe.</hi>
+                  </p>
+                  <p n="2">¶. 2. Becauſe at what time ſoever, or hour of the day light the Scripture ſpeaks of the fol<g ref="char:EOLhyphen"/>lowing Night, it expreſſeth it in this manner, <hi>To Night; This
+<pb n="52" facs="tcp:45590:36"/>Night;</hi> This <hi>ſame Night</hi> as be<g ref="char:EOLhyphen"/>longing to the ſame day, and not to the following day. See <hi>Gen.</hi> 19.34. Where THIS <hi>Night</hi> is expreſt as the Night-darkneſs, that followed the day's, Day-light immediately foregoing, as belonging thereunto. So <hi>Gen.</hi> 26. 24. <hi>And</hi> Iſaac <hi>went up from thence to</hi> Beerſheba <hi>and the Lord ap<g ref="char:EOLhyphen"/>peared unto him</hi> THE SAME NIGHT; that is the Night be<g ref="char:EOLhyphen"/>longing to the immediate pre<g ref="char:EOLhyphen"/>ceding DAY LIGHT wherein <hi>Iſaac</hi> Travelled up to <hi>Beerſheba.</hi>
+                  </p>
+                  <p n="3">¶. 3. When at any hour of the <hi>day-light</hi> the Scripture men<g ref="char:EOLhyphen"/>tions <hi>Night,</hi> it ſpeaks not of the Night as belonging to the day following, but as belonging to the day before-going, ſaying <hi>Yeſter-night,</hi> Gen. 19.34. YES<g ref="char:EOLhyphen"/>TERNIGHT <hi>I lay with my Fa<g ref="char:EOLhyphen"/>ther.</hi> And <hi>Gen.</hi> 31.42. <hi>God hath ſeen</hi> (ſaith <hi>Jacob</hi> to <hi>Laban</hi>) <hi>mine
+<pb n="53" facs="tcp:45590:36"/>affliction, and the labours of my hands, and rebuked thee YESTER<g ref="char:EOLhyphen"/>NIGHT.</hi> But when at Night they ſpake of the Day following, they uſed not to ſay TO DAY, or THIS DAY, but to MORROW, or the MORROW AFTER Num. 33.3. <hi>They departed from</hi> Rameſes, <hi>in the firſt Moneth, in the fifteenth day of the firſt moneth;</hi> on the MORROW AFTER <hi>the Paſſover the Children of</hi> Iſrael <hi>went out with an high hand &amp;c.</hi> So 1 <hi>Sam.</hi> 19.11. <hi>And</hi> Saul <hi>ſent Meſſengers to</hi> David's <hi>houſe to watch him, and to ſtay him in the</hi> MORNING. <hi>And</hi> Michael Da<g ref="char:EOLhyphen"/>vid's <hi>Wife told him ſaying, If thou ſave not thy life</hi> TO NIGHT, TO MORROW <hi>thou ſhalt be ſlain:</hi> ſignifying by the morrow another day, <hi>Mat.</hi> 6.34. Jam. 4. 13, 14.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>Sect.</hi> 2.</head>
+                  <p>Yea I might further aſſert,
+<pb n="54" facs="tcp:45590:37"/>That <hi>after</hi> Iſraels <hi>coming out of</hi> Aegypt, the <hi>Jews</hi> (mentioned in Scripture) did commonly ac<g ref="char:EOLhyphen"/>compt the Artificial day, of <hi>Day light,</hi> to be the former part of the day, in reſpect of their Civil affairs, <hi>Exod.</hi> 13.21, 22. <hi>The Lord went before them by DAY in a Pillar of a Cloud, to lead them the WAY; and by night, in a Pillar of Fire, to give them Light. He took not away the Pillar of the Cloud by DAY, nor the Pillar of Fire by Night.</hi> So <hi>Levit.</hi> 8.35. <hi>Therefore ſhall ye abide at the door of the Taber<g ref="char:EOLhyphen"/>nacle of the Congregation DAY and Night.</hi> See alſo <hi>Num.</hi> 9.21. <hi>So it was when the Cloud was taken up in the MORNING, then they journyed, whether it was by DAY or by Night.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="55" facs="tcp:45590:37"/>
+               <head>
+                  <hi>CAP. IV.</hi> Of the change of the beginning of the Natural Day, and the Effect thereof.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> 1.</head>
+                  <p>WHen the <hi>Iſraelites</hi> were come out of <hi>Aegypt,</hi> the NIGHT was made (excepted as before excepted) the <hi>former part</hi> of the <hi>Natural day.</hi> This appears,</p>
+                  <p n="1">¶. 1. Becauſe a never to-be forgotten Memorial or <hi>Memoran<g ref="char:EOLhyphen"/>dum</hi> is ſolemnly put upon that Night wherein they march'd out of <hi>Aegypt.</hi> Exod. 12.42. <hi>It is a Night to be much obſerved unto the Lord, for bringing them out from the Land of</hi> Aegypt: <hi>This is that Night of the Lord, to be ob<g ref="char:EOLhyphen"/>ſerved of all the Children of</hi> Iſ<g ref="char:EOLhyphen"/>rael <hi>in their Generations.</hi>
+                  </p>
+                  <pb n="56" facs="tcp:45590:38"/>
+                  <p n="2">¶. 2. The <hi>Iſraelites</hi> were com<g ref="char:EOLhyphen"/>manded after their coming out of <hi>Aegypt,</hi> to celebrate the Sab<g ref="char:EOLhyphen"/>bath from Evening to Evening, <hi>Levit.</hi> 23.32.
+<note place="margin">N. B.</note> 
+                     <hi>From Evening to Evening ſhall ye celebrate your Sabbath.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>Sect.</hi> 2.</head>
+                  <p>
+                     <note place="margin">The new beginning of the Week.</note> Whereupon they ſo begin their Week-days alſo, whereby their Sabbath day was meaſured out unto them, to be their Se<g ref="char:EOLhyphen"/>venth day, otherwiſe their Se<g ref="char:EOLhyphen"/>venth day would not have been proportionable to their ſix days of labour.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>
+                     <hi>Sect.</hi> 3.</head>
+                  <p>
+                     <note place="margin">A new be<g ref="char:EOLhyphen"/>ginning of the Year.</note> From hence alſo their <hi>Year</hi> had a new beginning. For whereas formerly they began their Year in the Month <hi>Tiſri,</hi>
+                     <note place="margin">N. B.</note> (which conſiſted chiefly of our
+<pb n="57" facs="tcp:45590:38"/>
+                     <hi>September</hi>) after all their inga<g ref="char:EOLhyphen"/>thering of all their Fruits of the Earth, <hi>Exod.</hi> 23.16. <hi>And the Feaſt of Harveſt, the Firſt-fruits of thy labours which thou haſt ſown in the Field, and the Feaſt of INGATHERING which is in the END of the YEAR, when thou hast gathered in the Labours out of the field:</hi> Likewiſe, <hi>Ex.</hi> 34.22. <hi>And thou ſhalt obſerve the Feaſt of weeks, of the Firſt-fruits of Wheat-Harveſt, and the Feaſt of Ingathering at the YEARS-END:</hi> Now hence forward they were to begin their Year with the Moneth in which they had their Freedom from <hi>Aegypt,</hi> Exod. 12. 2. <hi>This Moneth ſhall be unto you the BEGINNING of MONETHS, it ſhall be the FIRST MONETH</hi> of the <hi>YEAR to you.</hi> Which Moneth was called in the He<g ref="char:EOLhyphen"/>brew <hi>Abib,</hi> and by the Chaldee <hi>Niſan,</hi> conſiſting partly of our <hi>March,</hi> and partly of our <hi>April,</hi>
+                     <pb n="58" facs="tcp:45590:39"/>being with them the firſt Moneth after the <hi>Vernal Aequinoctial,</hi> that is, after the <hi>Spring-Aequality</hi> of the Day and Night. So that from after their deliverance from <hi>Aegypt,</hi> the <hi>Iſraelites</hi> had a new <hi>Year,</hi> and a new <hi>Moneth,</hi> and a new <hi>day</hi> to begin their year withal.
+<note place="margin">N. B.</note> So that although in re<g ref="char:EOLhyphen"/>ſpect of their <hi>Civil Affairs</hi> they began their <hi>Year,</hi> their <hi>Moneth,</hi> and <hi>Day</hi> as they did before they came out of <hi>Aegypt;</hi> yet in this <hi>New Eccleſiaſtical,</hi> or <hi>Sacred Year,</hi> they began their Day at Even. All their Sabbaths and all other their Sacred days, and ſo alſo their Week-days, for meaſuring out to them their Sacred days they began at <hi>Even.</hi> They had the <hi>Evening</hi> to be the <hi>former</hi> part of the Day, <hi>Levit.</hi> 23.32.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>Sect.</hi> 4.</head>
+                  <p>To ſpeak a little more parti<g ref="char:EOLhyphen"/>cularly
+<pb n="59" facs="tcp:45590:39"/>to the ſaid Change. That the Artificial day of <hi>Day-light</hi> among the <hi>Jews,</hi> conſiſted of Twelve hours is evident by Scripture, <hi>Act.</hi> 2.15. Theſe men are not <hi>drunken as ye ſuppoſe ſeeing it is but the third hour of the day.</hi> (that is, Nine of the Clock in the Morning) ſo that Six in the Morning was the firſt hour of their day. And <hi>Mat.</hi> 27.45. <hi>Now from the Sixth hour</hi> (that is Twelve of the Clock at noon-day) <hi>there was darkneſs to the Ninth hour</hi> (<hi>i. e.</hi> Three of the Clock in the Afternoon). And conſequently the Twelfth hour was Six of the Clock at Evening, the period of their day. And proportionably was the reckoning of their Night.</p>
+                  <p n="1">¶. 1. Now as <hi>Moſes</hi> put back the account, ſaying, <hi>Levit</hi> 23.32. <hi>From Evening to Evening ſhall ye celebrate your Sabbath.</hi> And
+<pb n="60" facs="tcp:45590:40"/>upon that footing of the account <hi>Exod.</hi> 12.41, 42. <hi>And it came to paſs at the end of the Four hun<g ref="char:EOLhyphen"/>dred and thirty Years, even the the ſelf ſame day it came to paſs, that all the Hosts of Lord went out from the Land of</hi> Aegypt. <hi>It is a NIGHT to be much obſerved unto the Lord, for bringing them out of the Land of</hi> Aegypt, <hi>this is that Night of the Lord to be ob<g ref="char:EOLhyphen"/>ſerved of all the Children of</hi> Iſrael, <hi>in their Generations.</hi> I ſay, as <hi>Moſes</hi> thus <hi>put back</hi> the account, to begin the Sabbath-day at the Evening before, <hi>viz.</hi> from Six of the Clock that Evening, to con<g ref="char:EOLhyphen"/>tinue to Six of the Clock at Evening of the next enſuing day: So Chriſt re-aſſumed and brought forward all that day Light, and put it to the next day, with which, together with the Night following he made a new diſtinct day, by riſing early in the Morn<g ref="char:EOLhyphen"/>ing of that new-made day; hav<g ref="char:EOLhyphen"/>ing
+<pb n="61" facs="tcp:45590:40"/>put an end to the <hi>Jewiſh</hi> Sab<g ref="char:EOLhyphen"/>bath. <hi>Mat.</hi> 28.1. <hi>In the END of the Sabbath</hi> (Chriſt then put an end to the <hi>Jewiſh</hi> Sabbath) <hi>when it began</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>to dawn</hi> with ſome Light <hi>towards</hi> the FIRST DAY <hi>of the week;</hi> in which ri<g ref="char:EOLhyphen"/>ſing, <hi>Chriſt ceaſed</hi> (as Learned <hi>Weemſe</hi> notes, according to <hi>Heb.</hi> 4.10.) <hi>from his own Works,
+<note place="margin">N. B.</note> as God did from his.</hi>
+                  </p>
+                  <p n="2">¶. 2. 'Tis true (as ye have heard) that this day in the whole Matter, was the <hi>Jews</hi> Seventh day Sabbath. But when (as hath been explained) Chriſt had new formed and bounded it, by re<g ref="char:EOLhyphen"/>ſtoring its Evening to it, and ſo making it as a new day in that reſpect; then was it called <hi>the</hi> FIRST DAY <hi>of the week;</hi> be<g ref="char:EOLhyphen"/>cauſe it was the <hi>primeſt</hi> day of the week, and was the beginning of the Chriſtians new Meaſure, and Accompt of days; oppoſite to
+<pb n="62" facs="tcp:45590:41"/>that old Meaſure, and Accompt that <hi>Moſes</hi> delivered to <hi>Iſrael, Lev.</hi> 23.32.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>The reaſon why</hi> Gen. 1. Of every days work it is ſaid, <hi>The Evening and the morning made one day,</hi> the Evening being put before the Mor<g ref="char:EOLhyphen"/>ning; contrary to our Aſſer<g ref="char:EOLhyphen"/>tion. CHAP. 3. And §. 1. In giving the reaſon whereof, is ſet forth the true Nature of thoſe Six days wherein God Created the World.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> 1.</head>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Obj. </seg>
+                     </label> IF it be objected, That before <hi>Iſraels</hi> coming out of <hi>Aegypt,</hi> the <hi>Evening,</hi> which is, as afore<g ref="char:EOLhyphen"/>ſaid the Artificial Night, was ſet
+<pb n="63" facs="tcp:45590:41"/>before the <hi>Morning,</hi> which is the Artificial Day; both being the two parts of the Natural Day; <hi>Gen.</hi> 1.5. <hi>&amp;c. The Evening and the Morning were the Firſt Day, Second Day, Third Day, Fourth Day</hi> &amp;c. We anſwer,</p>
+                  <p n="1">¶. 1. Thoſe days were <hi>Crea<g ref="char:EOLhyphen"/>tional</hi> days; Not <hi>Natural</hi> days of Twenty four hours, meaſured out by the <hi>Sun</hi> circling the Earth, once every Natural day: But they were <hi>Creational</hi> days, peculiar to the Creation, wherein God did work every days work, producing <hi>Entities</hi> out of <hi>Non<g ref="char:EOLhyphen"/>entities; Habits</hi> out of <hi>privati<g ref="char:EOLhyphen"/>ons;</hi> and reſted the Seventh Day.</p>
+                  <p n="2">¶. 2. They were <hi>extraordi<g ref="char:EOLhyphen"/>nary</hi> days, not meaſured out by the Motion of the <hi>Sun</hi> (as now) For in the firſt, ſecond, and third of thoſe days there was no Sun
+<pb n="64" facs="tcp:45590:42"/>as yet in being to meaſure them.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> ¶. 3. And they were <hi>
+                        <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſal</hi> days, that is, when it was day, it was day over the univerſal World; when it was Night it was Night every where over the whole Univerſe, both in regard of the beginning and ending of the Day and the Night. To make it more plain, that theſe were <hi>
+                        <g ref="char:V">Ʋ</g>niverſal</hi> days, let us con<g ref="char:EOLhyphen"/>ſider an inſtance or two.</p>
+                  <p>
+                     <note place="margin">The Uni<g ref="char:EOLhyphen"/>verſal day explained by inſtan<g ref="char:EOLhyphen"/>ces in one Day.</note> The Firſt Day was ſuch a day, as when it began <hi>any where,</hi> it be<g ref="char:EOLhyphen"/>gan every where. No where then, was it <hi>no day:</hi> nor any other then the Firſt day of God's Cre<g ref="char:EOLhyphen"/>ation. There was <hi>in Nature</hi> be<g ref="char:EOLhyphen"/>fore, though not before <hi>in time,</hi> a mixture of Light and Dark<g ref="char:EOLhyphen"/>neſs. <hi>Gen.</hi> 1.2. But when God had out of it formed the Light, and made it ſhine out of that <hi>Duskiſhneſs,</hi> dividing the Light from the Darkneſs, ſo as they
+<pb n="65" facs="tcp:45590:42"/>ſhould never be both in one He<g ref="char:EOLhyphen"/>miſphere, but orderly each ſuc<g ref="char:EOLhyphen"/>ceeding the other, God then called that <hi>Light</hi> ſo divided by the name of Day, that is, Day<g ref="char:EOLhyphen"/>light. And that Darknes ſo di<g ref="char:EOLhyphen"/>vided he called <hi>Night;</hi> that is, the Nights darkneſs. The full Revolution of both which was the Firſt Day. In this diviſion of the Light and Darkneſs, or Day and Night, though the Night was before the Day in one Hemiſphere (that is over one half of the World); And the Day before the Night in the other Hemiſphere: yet in re<g ref="char:EOLhyphen"/>ſpect of the whole Univerſe, neither of them was before the other in time. When the Firſt Day began ſomewhere, when it was Night; at the ſame time that Firſt Day began ſome other<g ref="char:EOLhyphen"/>where when it was Day-light. Every where did the Firſt Day begin at the ſame time. The
+<pb n="66" facs="tcp:45590:43"/>ſame may be ſaid of the Second and Third Day before the <hi>Sun, Moon,</hi> and <hi>Stars</hi> were Created.</p>
+                  <p>Yea, likewiſe the Fourth Day, in which the <hi>Sun, Moon,</hi> and <hi>Stars</hi> were Created (if they) moved as ſoon as they were Created) was notwithſtanding an Univerſal Day (that ſo all Seven might in a juſt proporti<g ref="char:EOLhyphen"/>on of length and number anſwer to one another). When it was the Fourth day any where, it was the Fourth day every where. I ſay not <hi>Day-light every where,</hi> but it was the Fourth day con<g ref="char:EOLhyphen"/>ſiſting of Day-light, and Night-darkneſs.
+<note place="margin">A Caution to the Rea<g ref="char:EOLhyphen"/>der.</note> The Reader muſt al<g ref="char:EOLhyphen"/>ways diſtinguiſh between a <hi>Day,</hi> and <hi>Day-light.</hi> Now though it is not revealed in what hour, or time of the Fourth day the <hi>Sun, Moon,</hi> and <hi>Stars</hi> were Created (the <hi>whole</hi> Fourth Day being al<g ref="char:EOLhyphen"/>lotted by the Divine Story,
+<note place="margin">N. B.</note> to
+<pb n="67" facs="tcp:45590:43"/>and for their Creation) yet this muſt, by natural neceſſity, be granted, That when the <hi>Sun</hi> firſt appeared to the World on that Fourth day, it was at that time, over ſome part of the Globe of the Earth, making it to be <hi>Noon</hi> there, and in all pla<g ref="char:EOLhyphen"/>ces within that Hemiſphere, which were in the ſame <hi>Meridi<g ref="char:EOLhyphen"/>an</hi> with the <hi>Sun.</hi> So that al<g ref="char:EOLhyphen"/>though on that Fourth Day, <hi>Sun-ſetting</hi> was before Sun riſing in ſome places; and <hi>Sun-riſing</hi> before Sun-ſetting in ſome other places; And in ſome places <hi>Noon</hi> was before either of the other; and in ſome other places <hi>Mid<g ref="char:EOLhyphen"/>night</hi> was before them all: yet in reſpect of the whole Earth, not one of them was on that Fourth Day before the other: But at the <hi>Suns</hi> firſt appearing, and ſhining over half the Earth, it was at that very inſtant the Fourth Day, as well where it
+<pb n="68" facs="tcp:45590:44"/>was <hi>Sun-ſetting,</hi> or <hi>Sun-riſing,</hi> as where it was <hi>Noon.</hi> And likewiſe it was then the Fourth Day alſo, in the other part of the Earth, to which the <hi>Moon</hi> or <hi>Stars</hi> firſt appeared. For, neither <hi>Sun, Moon,</hi> or <hi>Stars</hi> appear'd to any place on the Third Day, which was the day before they were made; and the Fifth Day was not then begun. The ſame may be ſaid of the Fifth, Sixth, and Seventh Day, when either of theſe days began, it was after <hi>Sun-ſetting</hi> in ſome places, and before <hi>Sun-riſing</hi> in ſome other places; and it was then <hi>Noon</hi> in ſome places, and <hi>Mid-night</hi> in ſome other places; yet all are of, and upon the ſame Day.</p>
+                  <p>Seeing then theſe were Uni<g ref="char:EOLhyphen"/>verſal Days, and ſo no Man can tell <hi>where on Earth thoſe places are,</hi> at which it was Sun-riſing, or Sun-ſetting, or Noon, or Mid<g ref="char:EOLhyphen"/>night; or when the <hi>Sun</hi> firſt
+<pb n="69" facs="tcp:45590:44"/>ſhined forth to the World, or when half of that Fourth-Day, or when it was fully ended: I ſay therefore theſe days, theſe Univerſal days, cannot be made the footing of the Accompt for the meaſuring out of our Arti<g ref="char:EOLhyphen"/>ficial Day and Night, the parts of the Natural Day. Our or<g ref="char:EOLhyphen"/>dinary Seven days cannot de<g ref="char:EOLhyphen"/>rive their <hi>Number,</hi> and begin<g ref="char:EOLhyphen"/>ning from the ſaid <hi>
+                        <g ref="char:V">Ʋ</g>niverſal</hi> Days to an hour.</p>
+                  <p n="4">¶. 4. We anſwer, That <hi>Moſes</hi> wrote the Book of <hi>Geneſis,</hi> when he had been Inſpired by the ap<g ref="char:EOLhyphen"/>pearance of God to him, calling him, and enabling him to that Miraculous Work of bringing <hi>Iſrael</hi> out of <hi>Aegypt,</hi> Exod. 3.2. So that he wrote that Book after <hi>Iſraels</hi> coming out of <hi>Aegypt;</hi> at which deliverance their Year, Month, and Day was changed, <hi>Exod.</hi> 12.41.42. <hi>Levit.</hi> 23.32.
+<pb n="70" facs="tcp:45590:45"/>The Natural Day was now to begin at Evening (as aforeſaid) whereas before that it began in the Morning (as we have ſhew'd.) Therefore, if <hi>Moſes</hi> ſhould now have ſaid, <hi>Gen.</hi> 1. <hi>The Morning and the Evening was the Firſt, Second, Third, Fourth, Fifth, Sixth, Seventh Day,</hi> putting the Morning before the Evening, he might have ſeemed thereby to have diſliked the ſaid Change appointed by God as aforeſaid, of making the Evening the be<g ref="char:EOLhyphen"/>ginning of each day, after their coming out of <hi>Aegypt.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="71" facs="tcp:45590:45"/>
+               <head>
+                  <hi>CAP. VI.</hi> Of the Reaſon why the <hi>Jews</hi> muſt change the <hi>beginning</hi> of the Day (as aforeſaid:) and ſo of <hi>the Day</hi> from our <hi>Sunday,</hi> or <hi>Lord's-day</hi> to the <hi>Jews Saturday</hi> (as they commonly call it).</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> 1.</head>
+                  <p>THE Firſt Reaſon was for a Memorial, or <hi>Memorandum</hi> of their deliverance out of <hi>Aegypt</hi> as before proved.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>Sect.</hi> 2.</head>
+                  <p>The Second was, becauſe the <hi>Heathens</hi> did Dedicate and Ce<g ref="char:EOLhyphen"/>lebrate the Ancient Sunday (that was obſerved piouſly to God, be<g ref="char:EOLhyphen"/>fore <hi>Iſraels</hi> coming out of <hi>Aegypt</hi>) to the <hi>Sun,</hi> the <hi>Heathen</hi> I ſay De<g ref="char:EOLhyphen"/>dicated
+<pb n="72" facs="tcp:45590:46"/>it to worſhip that Planet on that day. And for that rea<g ref="char:EOLhyphen"/>ſon the Lord would not have the <hi>Jews</hi> to obſerve it any longer, but would have them change it.</p>
+                  <p n="1">¶. 1. Thus God of old, would not have his people uſe the names of lawful things, nor mention ſuch names, which the Idolaters were wont to uſe, <hi>Hoſ.</hi> 2.16.17. <hi>It ſhall be at that day, ſaith the Lord, that thou ſhalt call me</hi> ISHI, <hi>and ſhalt call me no more</hi> BAALIM. For <hi>I will take away the Names of</hi> BAALIM <hi>out of her mouth, &amp;c.</hi> Why would not the Lord be called <hi>Baalim</hi> but <hi>Iſhi</hi> ſeeing both fignifie the ſame thing, that is, <hi>My Husband,</hi> or <hi>my Lord?</hi> The Reaſon was, becauſe <hi>Baal</hi> was the name that <hi>Heathens</hi> gave to their Gods. And therefore God would have the name of <hi>Baalim</hi> (the plural of <hi>Baal</hi>) to be utter<g ref="char:EOLhyphen"/>ly removed out of the mouths of his people.</p>
+                  <pb n="73" facs="tcp:45590:46"/>
+                  <p n="2">¶. 2. For the ſame Reaſon he would not have his people to obſerve the Ancient <hi>Sunday</hi> in uſe before <hi>Iſraels</hi> return from <hi>Aegypt,</hi> becauſe the <hi>Heathen</hi> cal<g ref="char:EOLhyphen"/>led it by that name, in relation to their Worſhiping the <hi>Sun</hi> on that day. And therefore God would have the day changed. This will more appear in the next Chapter.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="74" facs="tcp:45590:47"/>
+               <head>
+                  <hi>CAP. VII.</hi> Touching the Ancient Sunday, and the obſervation thereof, by <hi>Jews</hi> and <hi>Heathens,</hi> be<g ref="char:EOLhyphen"/>fore <hi>Iſraels</hi> deliverence out of <hi>Aegypt.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> I.</head>
+                  <p>TIS untradictably probable, beyond all demonſtration to the contrary, and with fair reaſon on our part, that the an<g ref="char:EOLhyphen"/>cient <hi>Sunday</hi> (for ſolemn Wor<g ref="char:EOLhyphen"/>ſhip of God) before <hi>Iſraels</hi> re<g ref="char:EOLhyphen"/>turn from <hi>Aegypt</hi> (which <hi>Sunday</hi> is now our LORD'S DAY) was obſerved by the Patriarchs be<g ref="char:EOLhyphen"/>fore the <hi>Flood,</hi> and by them af<g ref="char:EOLhyphen"/>ter the Flood, in honour to the true God who had Created that wonderful frame of Heaven, and in it that tranſcendent ſhining Planet the <hi>Sun,</hi> whom that is
+<pb n="75" facs="tcp:45590:47"/>God that Creator, they of the <hi>Patriarches</hi> before the Flood, worſhiped on that day, by imi<g ref="char:EOLhyphen"/>tation of <hi>God's reſting on the Se<g ref="char:EOLhyphen"/>venth day of his Creation;</hi> which is urged in the Fourth Com<g ref="char:EOLhyphen"/>mandement as to a Seventh day Sabbath, if not to THE Se<g ref="char:EOLhyphen"/>venth day Sabbath, which we now obſerve, as our <hi>Lords-day:</hi> of which more after.
+<note place="margin">N. B.</note> I note it chiefly here to intimat, that Gods <hi>example of reſting the Seventh day at the Creation,</hi> hath in it, an Argument for <hi>Imitation,</hi> that his people ſhould obſerve that moſt ancient <hi>Sunday</hi> of which we ſpeak; that example of God's reſting being then freſher to the <hi>Patriarchs</hi> and thoſe times by Two thouſand of years, then at the giving of the Moral Law. And the practiſe of the after<g ref="char:EOLhyphen"/>times do much ſhew us, what was the practiſe of former-times; Men being very apt to follow
+<pb n="76" facs="tcp:45590:48"/>their Fore-fathers in the out<g ref="char:EOLhyphen"/>ward profeſſion of Religion: And to uſe thoſe forms of ſpeech relating to Religion, which of old were wont to be uſed. The <hi>Patriarches</hi> therefore before the Flood, no doubt called and ac<g ref="char:EOLhyphen"/>compted God to be their <hi>Sun</hi> in a figurative ſenſe as the <hi>Pa<g ref="char:EOLhyphen"/>triarches</hi> that were after the Flood, and their ſucceeding Generations did likewiſe, <hi>Num.</hi> 6.25. <hi>Aaron and his Sons ſhall on this wiſe bleſs the Children of</hi> Iſrael, <hi>ſaying unto them; The Lord bleſs thee, and keep thee, the Lord make HIS FACE TO SHINE <g ref="char:V">Ʋ</g>PON thee.</hi> So, <hi>Deut</hi> 33.1, 2. <hi>And this is the bleſſing wherewith</hi> Moſes <hi>the man of God bleſſed the Children of</hi> Iſrael <hi>be<g ref="char:EOLhyphen"/>fore his death; And he ſaid the Lord came from</hi> Sinai, <hi>and roſe up from</hi> Seir <hi>unto them; he SHINED FORTH from Mount</hi> Paran. And <hi>Job</hi> (at leaſt as an<g ref="char:EOLhyphen"/>cient
+<pb n="77" facs="tcp:45590:48"/>as <hi>Moſes,</hi> if not ancienter) argues with God, that he would not <hi>ſhine</hi> upon the Wicked, and therefore would not oppreſs or <hi>deſpiſe</hi> him; that is, would <hi>SHINE</hi> upon him. And it is a common phraſe with <hi>David</hi> in Prayer to ſay, <hi>Make thy face to SHINE upon me,</hi> or upon us, <hi>Pſal.</hi> 31.16. <hi>Pſal.</hi> 71.1. And <hi>Pſal.</hi> 8. It is the burden or foot of the divine Song. And <hi>Pſal.</hi> 84. <hi>ver.</hi> 11. He calls God by the name of the <hi>Sun, The Lord God</hi> (ſaith he) <hi>is a S<g ref="char:V">Ʋ</g>N and a Shield to them that walk uprightly.</hi> And <hi>Malac.</hi> 4.2. He <hi>viz.</hi> Chriſt is cal<g ref="char:EOLhyphen"/>led the <hi>S<g ref="char:V">Ʋ</g>N</hi> of Righteouſneſs with healing in his wings, that is in his <hi>Beams.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>Sect.</hi> 2.</head>
+                  <p>Now as 'tis true that the Pi<g ref="char:EOLhyphen"/>ous <hi>Patriarchs</hi> of old, in a figu<g ref="char:EOLhyphen"/>rative ſenſe calling and accompt<g ref="char:EOLhyphen"/>ing
+<pb n="78" facs="tcp:45590:49"/>God to be as their <hi>Sun,</hi> did call and accompt their weekly ſolemn day of their Solemn Wor<g ref="char:EOLhyphen"/>ſhip of him, by the name of <hi>Sun<g ref="char:EOLhyphen"/>day,</hi> or <hi>Suns-day,</hi>
+                     <note place="margin">See before Chap. 7.</note> or <hi>day of the Sun</hi> (as aforeſaid): So it is as true (which further confirms the Section next before) that Idola<g ref="char:EOLhyphen"/>trous <hi>Heathen,</hi> of very ancient times, and downward, in imi<g ref="char:EOLhyphen"/>tation of the <hi>Jews</hi> Worſhiping the true God, their Metapho<g ref="char:EOLhyphen"/>rical <hi>Sun,</hi> did on the ſaid Sun<g ref="char:EOLhyphen"/>day, worſhip the Material and Natural <hi>Sun,</hi> and upon that ac<g ref="char:EOLhyphen"/>compt called it their <hi>Sunday,</hi> or <hi>Day of the Sun.</hi>
+                  </p>
+                  <p>For we know that <hi>Idolaters</hi> were always the Apes (as Di<g ref="char:EOLhyphen"/>vines call them) of true Religi<g ref="char:EOLhyphen"/>on. Upon their miſ-apprehen<g ref="char:EOLhyphen"/>ſions, and mal-applications of di<g ref="char:EOLhyphen"/>vine Inſpirations and Inſtitutions given by God to Godly men, they grounded their Idolatrous Superſtitions. Of many, take
+<pb n="79" facs="tcp:45590:49"/>but two or three Inſtances. <hi>viz.</hi> Becauſe <hi>Abraham</hi> (whiles there was no ſolemn ſet place appoin<g ref="char:EOLhyphen"/>ted of God for Worſhip) built an Altar on the <hi>Mountain</hi> neer <hi>Bethel,</hi>
+                     <note place="margin">Gen. 12.8. and <hi>Chap.</hi> 13.4.</note> and there called on the name of the Lord, the true God, And likewiſe he planted a <hi>Grove</hi> in <hi>Beer-ſheba</hi> and there called on the name of the Lord,
+<note place="margin">Gen. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>1.33.</note> the Ever<g ref="char:EOLhyphen"/>laſting God: And prepared all things at God's command to offer up his Son <hi>Iſaac</hi> for a burnt-offering, though afterwards he was forbidden the Execution: Therefore Idolaters planted <hi>Groves,</hi>
+                     <note place="margin">Gen. 22.</note> and Worſhiped in <hi>High-places,</hi> their Idols, and made their Children <hi>to paſs through the fire to them;</hi> mentioned as high Crimes, throughout the Old Teſtament. Even ſuch is the Riſe of the higheſt Idolatry, to wit, of worſhiping of falſe Gods. That becauſe Godly men Wor<g ref="char:EOLhyphen"/>ſhiped the true God according
+<pb n="80" facs="tcp:45590:50"/>to his divine Inſpirations, and In<g ref="char:EOLhyphen"/>ſtitutions; therefore Idolaters it an inique and unequel imitation Worſhiped their falſe Gods, ac<g ref="char:EOLhyphen"/>cording to their own inventions. And this Idolatry is moſt Anci<g ref="char:EOLhyphen"/>ent,
+<note place="margin">N. B.</note> and practiſed by <hi>Abraham Terah,</hi> and <hi>Nachor</hi> in <hi>Chaldea,</hi> be<g ref="char:EOLhyphen"/>fore they were called out,
+<note place="margin">
+                        <hi>Joſh.</hi> 24. v. 3.</note> and Converted from it.
+<note place="margin">
+                        <hi>Gen.</hi> 12.31. And <hi>Chap.</hi> 12.1.</note> Now to draw down our diſcourſe to the particular point in hand.</p>
+                  <p n="2">¶. 2. The great and Univer<g ref="char:EOLhyphen"/>ſal Monarches <hi>Saturnus Babylo<g ref="char:EOLhyphen"/>nicus,</hi> and <hi>Belus</hi> his Son, and other Potentates of <hi>Aſſyria,</hi> and <hi>Chaldea</hi> having Idolatrouſly ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> up the whole <hi>Hoſt of Heaven,</hi> i. e The <hi>Sun, Moon,</hi> and <hi>Stars</hi> to be their Gods; it is not imaginable that they would Dedicate any other day to the honour of their greateſt God, <hi>viz.</hi> the <hi>Sun,</hi> the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the day which the <hi>Patriarchs</hi> be<g ref="char:EOLhyphen"/>fore the Flood Dedicated to
+<pb n="81" facs="tcp:45590:50"/>God the Creator of the Sun. which doth further appear, in that thoſe Worſhippers of the <hi>Sun,</hi> having robbed God of his <hi>Worſhip,</hi> they robbed him alſo of his <hi>Name.</hi> For <hi>Nimrod</hi> hav<g ref="char:EOLhyphen"/>ing given to the <hi>Sun</hi> (his grea<g ref="char:EOLhyphen"/>teſt God) the Name of <hi>Baal;</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e afterwards aſſumed that name <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o himſelf.
+<note n="*" place="margin">
+                        <hi>Jo. Gr.</hi> Aſſyr. Mo<g ref="char:EOLhyphen"/>narch.</note> And <hi>Belus</hi> giving, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o their greateſt God the <hi>Sun,</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he name of <hi>Jove</hi> (the Contract of <hi>Jehovah</hi>) the ſaid <hi>Belus</hi> after<g ref="char:EOLhyphen"/>wards took that name to him<g ref="char:EOLhyphen"/>ſelf, and was called <hi>Jove Bel.</hi>
+                     <note n="*" place="margin">Idem Bib<g ref="char:EOLhyphen"/>lian.</note>
+                  </p>
+                  <p n="3">¶. 3. And moreover, ſeeing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Idolaters aſſigned to every of their Seven Planet-Gods one of the ſeven days in the week; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o conſidering ſober man can <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hink otherwiſe, but that they would Dedicate and Celebrate <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o their greateſt God, the <hi>S<g ref="char:V">Ʋ</g>N,</hi> (whom they called <hi>God of Gods, and Lord of Lords</hi>) the day for<g ref="char:EOLhyphen"/>merly
+<pb n="82" facs="tcp:45590:51"/>obſerved and celebrated to the great and true God of Heaven and Earth, rather then to the <hi>Moon</hi> and <hi>Mercury,</hi> or other their inferior Gods. And therefore nothing can be more probable, then that the Seventh day with the ancient <hi>Patriarchs,</hi> was no other but that which af<g ref="char:EOLhyphen"/>terwards was the SUN-DAY, <hi>Sonnes-day,</hi> or Day of, or to the <hi>Sun,</hi> with the <hi>Aſſyrians;</hi> and from them was called <hi>Sunday,</hi> or Day of the <hi>Sun</hi> by other Na<g ref="char:EOLhyphen"/>tions alſo, as the other days of the week were called by the other names of the Planets, as we do to this day; viz. <hi>Moon<g ref="char:EOLhyphen"/>day, Tueſday, Wedneſday, Thurſday, Friday, Saturday,</hi> all <hi>Saxon</hi> names of the Six inferiour Planet-Gods. Whereupon, as I ſaid before, this was one reaſon why the Lord changed to the <hi>Jews</hi> the Seventh day from our Sunday to the <hi>Jews</hi> Saturday.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="83" facs="tcp:45590:51"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> Proving that the <hi>Heathen Gen<g ref="char:EOLhyphen"/>tiles</hi> did of old in all Coun<g ref="char:EOLhyphen"/>tries, and Generations Wor<g ref="char:EOLhyphen"/>ſhip the <hi>Sun.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> 1.</head>
+                  <p>HAving ſhew'd how, and by what means the <hi>Heathen Gentiles</hi> of old took cognizance of the Supereminency of <hi>Sun<g ref="char:EOLhyphen"/>day,</hi> or day of the <hi>Sun;</hi> and hinted that they on that day worſhiped the <hi>Sun:</hi> Now for Confirmation of it, and to make way to that which muſt follow, it is requiſite that I ſhould prove [That the <hi>Heathen Gentiles</hi> did <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n all Countries and Generati<g ref="char:EOLhyphen"/>ons of old, Worſhip the <hi>Sun.</hi>]</p>
+                  <p n="1">¶. 1. The <hi>Aſſyrians</hi> with the help of the <hi>Chaldeans</hi> ſet up the
+<pb n="84" facs="tcp:45590:52"/>Idolatry of Worſhiping the Hoſt of Heaven, <hi>viz. Sun Moon,</hi> and the reſt of the Planets <hi>Macrob. Saturn.</hi> l. 1. c. 9.17, 18, 19, 20, 21, 22, 23. And Rabbi <hi>Maimonides,</hi> one of the ſobereſt of the <hi>Jew<g ref="char:EOLhyphen"/>iſh</hi> Writers (as ſome Learned aſſert) affirms, <q rend="margQuotes">That from the days of <hi>Enoſh,</hi> the Stars were Worſhiped as Gods. After which time, the great God was generally forgotten. No man ſcarcely knew the true God but <hi>Enoch, Methuſalah, Noah, Sem.</hi> and <hi>Heber.</hi>
+                     </q>
+                     <note place="margin">De Jol. 1.</note>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>
+                     </label> Thus <hi>Maimonides</hi>
+                     <note n="*" place="margin">Maimon.</note> Some (yea and of the Learned) Quaere, How <hi>Maimonides</hi> ſhould come to know what he hath ſaid.
+<label type="milestone">
+                        <seg type="milestoneunit">Anſ. </seg>1</label> To this firſt we Anſwer from <hi>Gen.</hi> 4.26. <hi>And to</hi> Seth <hi>was born a SON and he cal<g ref="char:EOLhyphen"/>led his name</hi> ENOS: <hi>then began men</hi> (ſaith our <hi>Engliſh</hi> Tranſlati<g ref="char:EOLhyphen"/>on) <hi>to call upon the Name of the Lord.</hi> But the Learned <hi>H. Brough<g ref="char:EOLhyphen"/>ton,</hi>
+                     <note n="*" place="margin">
+                        <hi>Brough<g ref="char:EOLhyphen"/>tons</hi> works in Folio <hi>p.</hi> 11. <hi>p.</hi> 64. <hi>p.</hi> 219. <hi>p.</hi> 339. Pre<g ref="char:EOLhyphen"/>ſented it to King <hi>J<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>s</hi> in Print.</note> five times at leaſt, in his
+<pb n="85" facs="tcp:45590:52"/>Works blame this Tranſlation, and thus Tranſlates it, <q rend="margQuotes">
+                        <hi>Alſo to</hi> Seth <hi>was born a Son and he called his name (Sorrowful)</hi> Enos. <hi>Then had ſprung up pro<g ref="char:EOLhyphen"/>phaneneſs, inſtead of calling up<g ref="char:EOLhyphen"/>on the name of the Eternal.</hi> And gives theſe reaſons. 1. At <hi>Enos</hi> Birth Religion is ſorrow<g ref="char:EOLhyphen"/>fully corrupted, through Mar<g ref="char:EOLhyphen"/>riage with <hi>Cain's</hi> Houſe. <hi>Enos</hi> Sorrowful, and <hi>Kenan</hi> Lamen<g ref="char:EOLhyphen"/>table ſo called, for Idolatry then ariſing. For he ſaith in another place of his Works, That the Ten Fathers or Pa<g ref="char:EOLhyphen"/>triarchs, before the Flood, had names given to them Conſig<g ref="char:EOLhyphen"/>nificant to the time.</q> And 2. Becauſe preſently, in the next Chapter ſave one, <hi>Moſes</hi> tells us, <hi>viz.</hi> in Chap. 6. is the declining of the Sons of God, in Religi<g ref="char:EOLhyphen"/>on; and of the coming of the Flood. And it ſeems by <hi>Nicho<g ref="char:EOLhyphen"/>las de Lyra,</hi> That the Learned
+<pb n="86" facs="tcp:45590:53"/>
+                     <hi>Jews</hi> did underſtand this Scrip<g ref="char:EOLhyphen"/>ture of the corrupting Religi<g ref="char:EOLhyphen"/>on in thoſe times. The <hi>Chalde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Paraphraſe likewiſe Tranſlates <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>The Sons of Men gave off from calling upon the name of the Lord.</hi> And in that Edition in 4<hi rend="sup">o.</hi> Printed at <hi>London</hi> of that accurate Tranſla<g ref="char:EOLhyphen"/>tion of the Bible, by <hi>F. Junius</hi> a Learned Chriſtian, and <hi>J. Tre<g ref="char:EOLhyphen"/>melius</hi> a Pious and Learned <hi>Jew,</hi> Printed at <hi>London,</hi> this Text is thus Tranſlated, <hi>Tunc coeptum eſt profanari in invocando nomine Jehovae,</hi> That is, then began men to be Prophane in calling up<g ref="char:EOLhyphen"/>on the name of <hi>Jehovah.</hi> And ſutable are his notes upon the place. <hi>Tunc ſub Enoſchi tempo<g ref="char:EOLhyphen"/>ra Caeptum eſt profanari, id eſt, Alii poſteri Schethi, apud quos manſura eſt Eccleſia a Caiinitis corrupti, caeperunt prophanare ſe. In invocando</hi>] i. e. <hi>in cultu Dei, vide (inquit)</hi> Cap. 5.22, <hi>&amp;</hi>
+                     <pb n="87" facs="tcp:45590:53"/>cap. 6.2. Now this <hi>Enos</hi> living above Five hundred years be<g ref="char:EOLhyphen"/>fore the Flood, ſhews us no ſmall antiquity of Idolatry. 2. We anſwer to the <hi>Quaere,</hi> That the knowledg of the Planetary Idolatry might come down to the Ancient <hi>Rabbies</hi> by ſure Tra<g ref="char:EOLhyphen"/>dition. For as <hi>Sem</hi> lived about an hundred years before the Flood, when the Planets were deemed to be the Univerſal Go<g ref="char:EOLhyphen"/>vernors of the World; So he lived long, <hi>viz.</hi> Five hundred years after the Flood. Though he lived not to <hi>Moſes</hi>'s time, yet did he live till <hi>Abraham</hi> was an old Man, if he did not live af<g ref="char:EOLhyphen"/>ter <hi>Abraham's</hi> Burial. Before which time, the Idolatrous Wor<g ref="char:EOLhyphen"/>ſhiping of the Hoſt of Heaven, was ſet up by the <hi>Aſſyrians</hi> and <hi>Chaldeans,</hi> Joſh. 24.2, 3. <hi>&amp;c.</hi> as aforeſaid.</p>
+                  <p n="2">¶. 2. As the <hi>Chaldeans</hi> had
+<pb n="88" facs="tcp:45590:54"/>the <hi>Sun</hi> for their Supream God, everlaſtingly Governing not on<g ref="char:EOLhyphen"/>ly the reſt of the Planets, but all things elſe: even ſo had <hi>other Nations</hi> alſo, the <hi>Sun</hi> for their chiefeſt Governour of the World. For thus they argued; <hi>Si Sol ut placuit veteribus, Dux eſt, &amp; Moderator reliquorum lu<g ref="char:EOLhyphen"/>minum, &amp;c.</hi> That is, <hi>If the Sun (as it was the opinion of Men in ancient times) be the chief, and Governour of other Luminaries, he alone ſurmounting in excellen<g ref="char:EOLhyphen"/>cie the other Planets, according to the vertue of whoſe Motions, the order of all human affairs is diſ<g ref="char:EOLhyphen"/>poſed; it neceſſarily followeth that we ſhould acknowledge the</hi> Sun, <hi>who governs thoſe, that governs our affairs, to be the Author of all things, that are brought to paſs among us</hi>
+                     <note n="(a)" place="margin">
+                        <hi>Macrob.</hi> in Som<g ref="char:EOLhyphen"/>no <hi>Scip.</hi> Lib. 16. <hi>Cap.</hi> 2. To the ſame effect <hi>Gloſſ.</hi> mag. in <hi>Gen.</hi> c. 1. <hi>Diodor. Si<g ref="char:EOLhyphen"/>cul. Ant.</hi> l. 1 c. 2.</note> To come to par<g ref="char:EOLhyphen"/>ticular Nations, The <hi>PERSIANS</hi> Worſhiped the <hi>S<g ref="char:V">Ʋ</g>N</hi> for their God. For <hi>Simeon</hi> the A. Biſhop
+<pb n="89" facs="tcp:45590:54"/>of <hi>Salucia</hi> was Martyred by them becauſe he would not Worſhip the Sun. So <hi>
+                        <g ref="char:V">Ʋ</g>ſthaſar,</hi> Guardian and Educator of <hi>Saporis,</hi> then King of <hi>Perſia,</hi> was by him Mar<g ref="char:EOLhyphen"/>tyred, becauſe being Converted by the ſaid <hi>Simeon,</hi> refuſed to Worſhip the <hi>Sun,</hi>
+                     <note n="(b)" place="margin">of theſe things, and ſee at large in <hi>Sozom.</hi> Eccleſ. <hi>Hiſt</hi> l. 2 cap. 8.</note> The <hi>AEGYPTIANS</hi> likewiſe Worſhip<g ref="char:EOLhyphen"/>ed the <hi>S<g ref="char:V">Ʋ</g>N</hi> Saying, <hi>The</hi> Sun <hi>and</hi> Moon <hi>were everlaſting Gods, and Governours of all things</hi>
+                     <note n="(c)" place="margin">
+                        <hi>Euſeb.</hi> de preparat. Evang. <hi>l.</hi> 1. cap. 9.</note>
+. This Idolatry was in <hi>Aegypt</hi> long before <hi>Joſeph,</hi> or <hi>Jacob,</hi> or any of his Poſterity ſet footing in <hi>Aegypt.</hi>
+                     <note place="margin">N. B.</note> Touching that their Idolatry, worſhiping the <hi>S<g ref="char:V">Ʋ</g>N.</hi> See <hi>Jer.</hi> 43.12, 13. <hi>Babylon ſhall kindle a Fire in the Houſes of the God of</hi> Aegypt; and he ſhall break in pieces the Images of (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>Beth-ſhemeſh,</hi> that is <hi>the Houſe of the</hi> Sun. And ſo <hi>Arias Montan.</hi> Tranſlates it. And ſo doth the <hi>Sept</hi> by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, That is <hi>the City of the</hi> Sun. And
+<pb n="90" facs="tcp:45590:55"/>touching the Antiquity of that Idolatrous Sun-worſhiping in <hi>Aegypt,</hi> that it was in uſe there, long before <hi>Joſeph,</hi> or <hi>Jacob,</hi> or any of his Poſterity were in <hi>Aegypt,</hi> it is evidently held forth to us in <hi>Gen.</hi> 41. <hi>v.</hi> 45. <hi>And</hi> Pharaoh <hi>call'd</hi> Joſeph's <hi>name</hi> Zap<g ref="char:EOLhyphen"/>nath-paaneah; <hi>and he gave him to Wife</hi> Aſenath <hi>the Daughter of</hi> Potiphera PRIEST OF ON; which laſt Clauſe the <hi>Sept.</hi> render (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>Of</hi> Potiphera <hi>the Priest of the City of the Sun,</hi> which the vulgar Latin imitates ſaying, <hi>Sacerdotis Heliopoleos.</hi> And this Antiquity of Sun-wor<g ref="char:EOLhyphen"/>ſhiping Idolatry is a conſidera<g ref="char:EOLhyphen"/>ble Notion,
+<note place="margin">N. B.</note> to ſtrengthen that before, touching the Ancient Pa<g ref="char:EOLhyphen"/>triarchs weekly worſhip of God the Creator of the <hi>Sun,</hi> upon the Sunday. For Truth is ancienter then Error; and Religious Wor<g ref="char:EOLhyphen"/>ſhip, then Idolatrous. And the brutiſh <hi>Barbarians</hi> could not ſo
+<pb n="91" facs="tcp:45590:55"/>much turn Votaries, as to Wor<g ref="char:EOLhyphen"/>ſhip the Sun, without ſome pat<g ref="char:EOLhyphen"/>tern (which they corruptly fol<g ref="char:EOLhyphen"/>lowed) of them that Worſhip<g ref="char:EOLhyphen"/>ed the God of the Sun. We know that but One thouſand ſix hun<g ref="char:EOLhyphen"/>dred years ſince (which is but as yeſterday, to the Ancient Patri<g ref="char:EOLhyphen"/>arches) it was the <hi>Heathen Ro<g ref="char:EOLhyphen"/>mans</hi> opinion, That the Chriſti<g ref="char:EOLhyphen"/>ans riſing before day-light, and ſinging of Pſalms, was but to Worſhip the Sun-riſing
+<note n="(d)" place="margin">
+                        <hi>Plin.</hi> 2. <hi>Fox</hi> Mart.</note>
+. The PHENICIANS alſo had the SUN for their God. And the Idol in which they worſhiped the Sun was called <hi>Heliogabalus</hi>
+                     <note n="(e)" place="margin">
+                        <hi>Herodot.</hi> de vita <hi>Im<g ref="char:EOLhyphen"/>per.</hi> Lib. 5.</note>
+. Moreover the SUN was the <hi>TROJANES</hi> God. They had many Gods, but the chiefeſt was the <hi>Sun</hi> and <hi>Pallas.</hi> The Image of <hi>Pallas,</hi> they eſteemed the Protectreſs of <hi>Troy,</hi> and her Image (called <hi>Palladium</hi>) to be ſent them from the <hi>Sun;</hi> which they kept in the Tower, or Temple
+<pb n="92" facs="tcp:45590:56"/>of <hi>Phaebus</hi> (that is of the <hi>Sun</hi>) and there they adored it. And <hi>Pantheus</hi> was the Prieſt of the <hi>Sun</hi> when <hi>Troy</hi> was taken
+<note n="(f)" place="margin">
+                        <hi>Auſtin</hi> de Civit. Dei. <hi>l.</hi> 1. cap. 2. &amp; <hi>Virg. Aene.</hi> Lib. 2.</note>
+. Yea the SUN was the <hi>GRECIANS</hi> God. In <hi>Athens</hi> their chief City, the place of giving Judgment, was to be open to the SUN, pre<g ref="char:EOLhyphen"/>ſuming that the Judge durſt not give a wrong judgment in the face of the SUN, who is ſaid by <hi>Homer</hi>
+                     <note n="(g)" place="margin">
+                        <hi>Iliad.</hi> l. 3.</note> to have (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>&amp;c.</hi>) <hi>A revenging Eye,</hi> who ſeeth, and heareth all things
+<note n="(h)" place="margin">
+                        <hi>Homer.</hi> Lib. 3.</note> which is the property of God alone ſaith <hi>Plato</hi>
+                     <note n="(i)" place="margin">
+                        <hi>Plat.</hi> de Legibus.</note>
+. The Judge of the Court had his Name from the SUN, and was therefore called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> q. d. The <hi>Sun-Judge.</hi> And the Judgment <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, as much as to ſay <hi>The Judgment of the</hi> SUN. The ROMANS, the Poſterity of the <hi>Trojan</hi> Fugitives, did un<g ref="char:EOLhyphen"/>der ſeveral Formes and Names, as of <hi>Janus, Apollo, Dydemaeus,</hi> &amp;c. Worſhip the SUN.
+<note n="(k)" place="margin">
+                        <hi>Ma<g ref="char:EOLhyphen"/>crob. Saturn</hi> lib. 1. c. 17.</note> The
+<pb n="93" facs="tcp:45590:56"/>inhuman Nation of the SCYTHI<g ref="char:EOLhyphen"/>ANS, though they acknowledg no other God, yet they Wor<g ref="char:EOLhyphen"/>ſhip the SUN as God, and offer up to him an Horſe, the ſwifteſt of Cattel, becauſe the SUN is the ſwifteſt of Creatures
+<note n="(l)" place="margin">
+                        <hi>Boë.</hi> ubi de <hi>Scythea.</hi>
+                     </note> In a word, The AETHIOPIANS, CATHANES, TARTARS, and the reſt of the <hi>Pagan-Nations</hi> Worſhiped the SUN
+<note n="(m)" place="margin">So <hi>Boe<g ref="char:EOLhyphen"/>mus</hi> write<g ref="char:EOLhyphen"/>ing of their man<g ref="char:EOLhyphen"/>ners and Cuſtoms. So D. <hi>Fr. White.</hi>
+                     </note>
+.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="94" facs="tcp:45590:57"/>
+               <head>
+                  <hi>CHAP. IX.</hi> Proving that our <hi>SUN-DAY</hi> or <hi>LORD'S-DAY</hi> was, with the <hi>Heathen Gentiles,</hi> the <hi>SEVENTH</hi> day of the Week, for their ſolemn day of Worſhip, and is continued with us Chriſtians, to be our weekly <hi>SEVENTH</hi> day of ſolemn Worſhip.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> 1.</head>
+                  <p>WE need not ſpend time and words to prove a known thing, <hi>That a Week is a portion of time, meaſured out by ſeven days of the ſame kind, c1on<g ref="char:EOLhyphen"/>tinued without interval.</hi> If any of the Seven days be <hi>Horizon<g ref="char:EOLhyphen"/>tal,</hi> that is from Sun-riſing to Sun-riſing; or from Sunſet, to Sunſet; or Meridional, that is, from Noon to noon, or from
+<pb n="95" facs="tcp:45590:57"/>Midnight to Midnight; then all muſt be <hi>Horizontal,</hi> as the <hi>Jews</hi> days of their week were, from Sunſet to Sunſet. Or all muſt be <hi>Meridional,</hi> as the Chriſtians week conſiſting of Seven days, from Midnight to Midnight. So that from Saturday to Saturday, from Sunday to Sunday, from Munday to Munday is a week.</p>
+                  <p n="1">¶. 1. Accordingly the Nation of the <hi>Romans</hi> in their Language called the Week <hi>Septimana;</hi> that is Seven Mornings. The <hi>Saxons</hi> in their Tongue called it a <hi>Sen<g ref="char:EOLhyphen"/>night.</hi> The <hi>Greeks</hi> called it <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, that is, the ſpace of Se<g ref="char:EOLhyphen"/>ven days. And ſo the <hi>Hebrews</hi> call a Week <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, that is a Se<g ref="char:EOLhyphen"/>ven days ſpace.</p>
+                  <p n="2">¶. 2. And likewiſe by Scrip<g ref="char:EOLhyphen"/>ture accompt, Seven days, from any ſet time, is counted a Week. <hi>Laban</hi> Gen. 29.27. <hi>bid</hi> Jacob
+<pb n="96" facs="tcp:45590:58"/>
+                     <hi>fulfil her Week,</hi> that is the Se<g ref="char:EOLhyphen"/>ven days of <hi>Leahs</hi> Nuptials. For that was the uſual time in So<g ref="char:EOLhyphen"/>lemnizing Marriages. <hi>Judg.</hi> 14.12. So alſo is a week meaſured out by Seven days, <hi>Levit.</hi> 12. <hi>v.</hi> 2, 3, 5.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>Sect.</hi> 2.</head>
+                  <p>Nor need we to mind the difference between <hi>A</hi> Seventh day (every day of the week be<g ref="char:EOLhyphen"/>ing a Seventh) and THE Se<g ref="char:EOLhyphen"/>venth day, which is the term, period, and boundaries of the week.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>
+                     <hi>Sect.</hi> 3.</head>
+                  <p>The firſt main thing we have to prove is, <hi>That our</hi> Sunday (<hi>which we call the</hi> Lord's day) <hi>was the</hi> SEVENTH DAY of the week with the <hi>Heathen Gentiles.</hi> As for our proof it
+<pb n="97" facs="tcp:45590:58"/>muſt be partly by reaſon, and partly by quotation of Learned Authors (both <hi>Chriſtians</hi> and <hi>Heathens</hi>) whither we muſt ſend the Reader, if he believes not our breviat; for neither can this little Pamphlet brook long nar<g ref="char:EOLhyphen"/>rations, nor can our Occaſions ſpare time to write them out at large.</p>
+                  <p n="1">¶. 1. For <hi>reaſon,</hi> thus we ar<g ref="char:EOLhyphen"/>gue: If <hi>Adam</hi> being Created the Sixth day at the cloſe of all God's Works (now entring upon his reſt) had not <hi>thence</hi> learned, what was a Natural Day, and what was a Week, and how the Seventh day was the <hi>boundary</hi> thereof (before he could come to know by <hi>experience,</hi> what was a Moneth, by the Motion of the <hi>Moon;</hi> or what a Year by the Motion of the <hi>Sun;</hi>) he could not have told how for a long time to have meaſured out
+<pb n="98" facs="tcp:45590:59"/>his Age. Doubtleſs therefore he learned from the Standard of Gods working Six days, and reſting the Seventh, what was a Day, a Week, and the boun<g ref="char:EOLhyphen"/>dary thereof; and thereby mea<g ref="char:EOLhyphen"/>ſured out the time of his Life, and ſo it was kept, and left up<g ref="char:EOLhyphen"/>on Record for after Ages. Months and Years among ſeveral Nati<g ref="char:EOLhyphen"/>ons have much varied: but ne<g ref="char:EOLhyphen"/>ver was the Week counted to be more or leſs then Seven days,
+<note place="margin">N. B.</note> with any people.</p>
+                  <p n="2">¶. 2. For <hi>Authors:</hi> The an<g ref="char:EOLhyphen"/>cient <hi>Beda</hi> witneſſeth, That the Reſt on the Seventh day <hi>(Sem<g ref="char:EOLhyphen"/>per celebrari ſolet) was wont al<g ref="char:EOLhyphen"/>ways to be celebrated.</hi>
+                     <note n="(a)" place="margin">
+                        <hi>Bed.</hi> in his <hi>Hexa<g ref="char:EOLhyphen"/>meron.</hi>
+                     </note> Like<g ref="char:EOLhyphen"/>wiſe <hi>Philo-Judaeus</hi> maketh this bold challenge, <hi>Quis Sacrum illum diem per ſingulas hebdoma<g ref="char:EOLhyphen"/>das recurrentem non honorat.</hi>
+                     <note n="(b)" place="margin">
+                        <hi>Phil.</hi> De vita <hi>Moſis.</hi> Lib. 2.</note> That is, <hi>Who is there that doth not honour that</hi> SACRED <hi>day
+<pb n="99" facs="tcp:45590:59"/>returning each Septinary of Se<g ref="char:EOLhyphen"/>ven days.</hi> To the ſame purpoſe <hi>Joſephus:</hi> Neque eſt ulla Civitas Graecorum, aut Barbarorum; ae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ULLA GENS, ad quam SEPTIMI diei, in quo VACA<g ref="char:EOLhyphen"/>MUS Conſuetudo, minime perve<g ref="char:EOLhyphen"/>nerit.
+<note n="(c)" place="margin">
+                        <hi>Joſ.</hi> contra <hi>Ap.</hi> Lib. 2.</note> That is, <hi>There is neither any City of the</hi> Greeks, <hi>or of the</hi> Barbarians, <hi>nor</hi> ANY NATION <hi>to whom the Cuſtom of the Se<g ref="char:EOLhyphen"/>venth day, in which we</hi> REST <hi>hath not come.</hi> Learned <hi>Mercer,</hi> commended for ſuch,
+<note n="(d)" place="margin">
+                        <hi>Heyl.</hi> part 1. p. 5.</note> by Dr. <hi>Hey<g ref="char:EOLhyphen"/>lin,</hi> was of Opinion (as he ſaith) That the <hi>firſt Fathers being taught of God, kept the Seventh day</hi> holy to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <note n="(e)" place="margin">
+                        <hi>Chryſoſt</hi> Hom. 10. in <hi>Gen.</hi>
+                     </note> 
+                     <hi>Chryſoſtom</hi> ſaith, <hi>Ja<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>c ab initio &amp;c. God hath inſinuated into us from the very beginning of the World this Doctrin,</hi> inſtructing us thereof in the Circle of the Week, THAT ONE WHOLE DAY ſhould be ſet apart, and laid out for Spiritual Actions. <hi>(f) Aug.
+<pb n="100" facs="tcp:45590:60"/>Steuchius, ſpeaking of the Seventh day affirmeth</hi> IT TO HAVE BEEN <hi>(in omni aetate, inter om<g ref="char:EOLhyphen"/>nes Gentes, venerabilis &amp; Sacer)</hi> VENERABLE and SACRED IN ALL AGES, AMONG ALL NATIONS
+<note n="(g)" place="margin">
+                        <hi>Steuch.</hi> on <hi>Gen.</hi> 2.</note> And our Book of <hi>Homiles</hi> tell us, <hi>That it is ac<g ref="char:EOLhyphen"/>cording to the Law of Nature</hi> to have a time as ONE DAY IN THE WEEK, <hi>wherein we ought to REST from our Labours.</hi> We will conclude this Paragraph with the Teſtimony of the moſt ancient <hi>Heathen</hi> Gr. Poets, as <hi>Ho<g ref="char:EOLhyphen"/>mer</hi> the ancienteſt, <hi>Heſiod</hi> next, and <hi>Callimachus</hi> and <hi>Linus</hi> who have ſpoken very hon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ably of the Creation, and o<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> Se<g ref="char:EOLhyphen"/>venth Day, Their words are ſet down at large by <hi>Clemens Alex<g ref="char:EOLhyphen"/>andrinus,</hi>
+                     <note n="(h)" place="margin">
+                        <hi>Clem</hi> Strom. l. 5.</note>
+: <hi>Euſebeus</hi>
+                     <note n="(i)" place="margin">
+                        <hi>Euſeb.</hi> de preparat. Evang. L. 13. c. 17.</note> 
+                     <hi>Ri<g ref="char:EOLhyphen"/>vet,</hi>
+                     <note n="(k)" place="margin">
+                        <hi>Rivet. on Gen.</hi> c. 2. &amp; in his De<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ert. de <hi>Orig.</hi> Sab.</note>
+. Now this laudable Opinion of the <hi>Sunday</hi> (now ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord's Day) they could not have from the Books of <hi>Moſes;</hi> for
+<pb n="101" facs="tcp:45590:60"/>they were not extant in the Greek Tongue, till <hi>Ptolomy</hi> pro<g ref="char:EOLhyphen"/>cured the Seventy Tranſlators to Tranſlate it into <hi>Greek,</hi> which was many hundreds of years af<g ref="char:EOLhyphen"/>ter <hi>Homer</hi> aforeſaid. Beſides, whiles the Kingdom of <hi>Iſrael</hi> and <hi>Judah</hi> flouriſhed the <hi>Gentiles</hi> got not a Script of the Sacred Scriptures. And the <hi>Jews</hi> thought it a prophaning of <hi>Moſes</hi>'s Writ<g ref="char:EOLhyphen"/>ings to communicate any of them to the <hi>Heathens.</hi> And Mr. <hi>John Gregory</hi> doth prove,
+<note n="(l)" place="margin">
+                        <hi>Jo. Greg.</hi> his diſ<g ref="char:EOLhyphen"/>courſe of the <hi>Sept.</hi>
+                     </note> That before that Tranſlation of the <hi>Septuagint,</hi> the <hi>Gentiles</hi> had no light from the Books of <hi>Moſes.</hi> Therefore (note it well) it muſt n<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> follow,
+<note place="margin">N. B.</note> That the <hi>Heathen-Gentiles</hi> had that honourable opinion, and ſpake ſo laudably of the SUN DAY by very anci<g ref="char:EOLhyphen"/>ent ſucceſſive Tradition, amongſt themſelves. Now this Seventh day of which they ſo well thought and ſpake, could not
+<pb n="102" facs="tcp:45590:61"/>be the Jews <hi>Saturday-Sabbath.</hi> For the <hi>Heathen</hi> utterly diſliked it,
+<note place="margin">N. B.</note> and diſdainfully counted it an innovation, brought in by <hi>Moſes;</hi> and therefore the Poets would commonly have one Laſh, or another at it, and never ſpoke honourably of it. Therefore it muſt be the ancient SUNDAY (before <hi>Moſes</hi>'s time, and after that, among the <hi>Heathen</hi>) that was by the <hi>Heathens</hi> honoured as the Seventh-day of the Week, the high day of their prime, and ſolemn Worſhip every Week called by them their <hi>Sunday;</hi> and by us called the <hi>Lord's day:</hi> Of which more in the next <hi> 
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<g ref="char:EOLhyphen"/>ragraph.</hi>
+                  </p>
+                  <p n="3">¶. 3. The Adverſaries them<g ref="char:EOLhyphen"/>ſelves do grant, that the day of the <hi>Sun</hi> or <hi>Sunday,</hi> was with the <hi>Heathen Gentiles</hi> the <hi>Seventh day,</hi> and <hi>Sacred</hi> with them. But it was ſay they the <hi>Seventh day</hi> of
+<pb n="103" facs="tcp:45590:61"/>the <hi>Month,</hi> and not the Seventh day of the <hi>Week.</hi> Againſt which, we muſt boldly aſſert the con<g ref="char:EOLhyphen"/>trary, <hi>viz.</hi> That the <hi>day of the Sun</hi> was the <hi>Seventh day of the Week,</hi> and Sacred with the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> and not the Seventh day of the Moneth. To warrant this Aſſertion, we have not only much in the Authors cited in the for<g ref="char:EOLhyphen"/>mer <hi>Paragraph,</hi> but alſo in <hi>Cle<g ref="char:EOLhyphen"/>mens Alexandrinus,</hi> and <hi>Euſe<g ref="char:EOLhyphen"/>beus,</hi> alledging the afore named <hi>Poets</hi> to ſhew particularly, That the <hi>Heathen Gentiles</hi> held the Se<g ref="char:EOLhyphen"/>venth day of the Week Sacred with them. And moreover in the <hi>Greek</hi> Calender, there is no mention at all of a Seventh day of the Month. Had there been any ſuch thing, they that ob<g ref="char:EOLhyphen"/>ſerve therein things of leſſer con<g ref="char:EOLhyphen"/>ſequence, would have obſerved that much more
+<note n="*" place="margin">
+                        <hi>Scalig.</hi> De emendat. temp. de Calenda<g ref="char:EOLhyphen"/>rio Attico.</note> Adde that Decree of <hi>Miltiades</hi> (the laſt Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome</hi> that was a Mar<g ref="char:EOLhyphen"/>tyr);
+<pb n="104" facs="tcp:45590:62"/>who, that he might make a difference between the Ob<g ref="char:EOLhyphen"/>ſervation of <hi>Sunday,</hi> by <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi> and the Obſervation of the <hi>ſame Sunday</hi> by the <hi>Heathen,</hi> de<g ref="char:EOLhyphen"/>creed, <hi>That all</hi> Gentiles <hi>that were turned Chriſtians, ſhould not Faſt on</hi> Sundays, <hi>as other</hi> Gentiles <hi>did.</hi>
+                     <note n="*" place="margin">
+                        <hi>Binii</hi> Concil. And <hi>Plat.</hi> Divita <hi>Mil<g ref="char:EOLhyphen"/>tiadis.</hi>
+                     </note> For in thoſe times, Sa<g ref="char:EOLhyphen"/>cred days were called by the <hi>Heathen Faſts;</hi> Becauſe they ab<g ref="char:EOLhyphen"/>ſtained from feeding themſelves till their Services were ended. Thus of the proof of the firſt main thing intended in this Ninth Chapter is, <hi>viz. That the Weekly day, to wit, the Seventh day every Week, with the</hi> Gentiles, <hi>which they call the day of the</hi> Sun, <hi>or</hi> Sunday, <hi>was the very ſame day which we call</hi> THE LORD'S DAY. We have already, in ſe<g ref="char:EOLhyphen"/>veral <hi>Sections</hi> and <hi>Paragraphs</hi> of the fore-going Chapters, drop<g ref="char:EOLhyphen"/>ped ſome proofs of this. But now we ſhall bring more par<g ref="char:EOLhyphen"/>ticularly,
+<pb n="105" facs="tcp:45590:62"/>direct and expreſs Teſti<g ref="char:EOLhyphen"/>monies to this point.</p>
+                  <p n="1">¶. 1. Dr. <hi>F. White,</hi> and Dr. <hi>Hey<g ref="char:EOLhyphen"/>lin</hi> (though they were Oppoſers of the Morality of the Sabbath) do confeſs, That <hi>Chriſtians</hi> of the firſt ages, becauſe they ob<g ref="char:EOLhyphen"/>ſerved the <hi>Sunday</hi> for their Sa<g ref="char:EOLhyphen"/>cred Services bowing in Prayer towards the <hi>Eaſt,</hi> were upbraid<g ref="char:EOLhyphen"/>ed for Worſhippers of the <hi>Sun;</hi> though they neither Worſhiped the <hi>Sun</hi> as the <hi>Heathen,</hi> nor cal<g ref="char:EOLhyphen"/>led the day, of their Worſhiping God, <hi>Sunday,</hi> as they called it; but <hi>the Lord's day</hi> being their <hi>Sabbath,</hi> or Sacred day of REST to the Lord. Therefore if <hi>Sun<g ref="char:EOLhyphen"/>day</hi> had not been with the <hi>Hea<g ref="char:EOLhyphen"/>then</hi> (who were <hi>Sun</hi> Worſhip<g ref="char:EOLhyphen"/>pers indeed) a weekly day of ſolemn Worſhip, there had been no cauſe of that upbraiding by the <hi>Jews,</hi> or <hi>Heathen-Gentiles.</hi>
+                     <note n="(a)" place="margin">
+                        <hi>White</hi> of the Sab<g ref="char:EOLhyphen"/>bath and <hi>Heylin</hi> part 2. <hi>p.</hi> 53.</note> But we have more ap<g ref="char:EOLhyphen"/>proved
+<pb n="106" facs="tcp:45590:63"/>Authors then theſe, as it follows,</p>
+                  <p n="2">¶. 2. <hi>Sozomen</hi> telleth us, That <hi>Constantine</hi> Commanded <hi>Diem Dominicum quem Hebraei primum Hebdomadae appellant, &amp; craeci Solis deputant a cunctis celebrari.</hi>
+                     <note n="(b)" place="margin">
+                        <hi>Sozom.</hi> Eccleſ. Hiſtor. L. 1. c. 8.</note> That is, <hi>Conſtantine</hi> com<g ref="char:EOLhyphen"/>manded that the <hi>Lords day</hi> which the <hi>Jews</hi> call the <hi>Firſt day of the week,</hi> and the <hi>Greeks</hi> depute to the <hi>Sun,</hi> to be celebrated of all. Whence it is juſtly inferred, That <hi>Conſtantine</hi> then held, That the Day which the <hi>Heathen-Greeks</hi> deputed to the <hi>Sun,</hi> was the <hi>very ſame</hi> which we call the <hi>Lord's day.</hi>
+                  </p>
+                  <p n="3">¶. 3. <hi>Coeli Rhodignin,</hi> tells us, <hi>Nos jure optimo, diem quem Ma<g ref="char:EOLhyphen"/>thematici Solis vocant, Domino aſcripſimus, dicavimuſque, &amp; illi<g ref="char:EOLhyphen"/>us Cultui totum mancipavimus;</hi> That is, with the greateſt Equity we have aſcribed, and Dedica<g ref="char:EOLhyphen"/>ted to the Lord, and wholly gi<g ref="char:EOLhyphen"/>ven
+<pb n="107" facs="tcp:45590:63"/>up to his Worſhip, <hi>that day</hi> which the Mathematicians call THE DAY OF THE <hi>S<g ref="char:V">Ʋ</g>N</hi>
+                     <note n="(c)" place="margin">
+                        <hi>Coel. Rho.</hi> Antiq. L. 13. c. 22.</note>
+.</p>
+                  <p n="4">¶. 4. <hi>Bonaventure</hi> tells of the pious fraud that Chriſtians acted, to rob the <hi>Sun</hi> of its Idolatrous Worſhip, and transfer the obſer<g ref="char:EOLhyphen"/>vation of that day to Chriſt, His Words are theſe, <hi>Secundum</hi> Gentiles, <hi>dies Dominicus primus est; Cum Principio illius diei in<g ref="char:EOLhyphen"/>cipit dominari principalis Plane<g ref="char:EOLhyphen"/>ta Sol: propter quod vocabant eundem Diem Solis; &amp; exhibe<g ref="char:EOLhyphen"/>bant ei venerationem. <g ref="char:V">Ʋ</g>t ergo error ille excluderetur, &amp; reve<g ref="char:EOLhyphen"/>rentia cultus Solis Deo exhibere<g ref="char:EOLhyphen"/>tur, praefixa fuit Dominica Dies, qua populus Chriſtianus vacaret cultui Divino</hi>
+                     <note n="(d)" place="margin">
+                        <hi>Bona<g ref="char:EOLhyphen"/>vent.</hi> 3. Diſt 37.</note> That is; <hi>Ac<g ref="char:EOLhyphen"/>cording to the</hi> Heathen <hi>the</hi> LORD'S DAY <hi>is a</hi> CHIEF <hi>day; when in the beginning of that day, the Principle Planet the</hi> SUN, <hi>be<g ref="char:EOLhyphen"/>gins to Rule: For which cauſe
+<pb n="108" facs="tcp:45590:64"/>they called it the Day of the</hi> SUN, <hi>and gave Worſhip thereunto. To the intent therefore, that Error might be ſhut out of doors, and that reverence of Worſhip of the</hi> Sun <hi>might be given to God, The</hi> LORD'S DAY <hi>was prefixed, wherein the Chriſtian people gave themſelves to Divine Worſhip.</hi> For a cloſe of this Chapter we add a Fifth <hi>Paragraph.</hi>
+                  </p>
+                  <p n="5">¶. 5. <hi>Juſtin Martyr</hi> doth di<g ref="char:EOLhyphen"/>verſe times in his Works, call the LORD'S DAY (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) THE DAY OF THE <hi>S<g ref="char:V">Ʋ</g>N,</hi> as then the <hi>Gentiles</hi> or <hi>Greeks</hi> called it.
+<note n="(e)" place="margin">
+                        <hi>Juſt.</hi> Mar. Apol. 2 pro Chri<g ref="char:EOLhyphen"/>ſtian. &amp; 2. centur.</note> So alſo <hi>Tertullian,</hi> ſometimes calles it, <hi>Diem Solis;</hi> Sunday ſometimes <hi>Diem Dominicum,</hi> The Lord's day. And in the Edicts of <hi>Con<g ref="char:EOLhyphen"/>stantine, Valentinian, Valens, Gra<g ref="char:EOLhyphen"/>tian, Honorius, Arcadius, &amp; Theo<g ref="char:EOLhyphen"/>doſius</hi> (all of them Chriſtian Prin<g ref="char:EOLhyphen"/>ces) our LORDS DAY is com<g ref="char:EOLhyphen"/>monly called <hi>Dies Solis,</hi> Sunday.</p>
+               </div>
+            </div>
+         </div>
+         <div type="outline">
+            <pb n="109" facs="tcp:45590:64"/>
+            <head>A DIAGRAM, OR Repreſentation, as to the Eye, of the Summe and Deſign of the whole Treatiſe preceding.</head>
+            <div n="10" type="chapter">
+               <head>CHAP. X. </head>
+               <div type="preface_to_diagram">
+                  <head>THE PREFACE To the ſaid DIAGRAM.</head>
+                  <p>THE <hi>Jews</hi> (as we have ſhew<g ref="char:EOLhyphen"/>ed were to begin their Sabbath at the Even, next be<g ref="char:EOLhyphen"/>fore
+<pb n="110" facs="tcp:45590:65"/>the ſucceeding Morning; And after the immediate Morn<g ref="char:EOLhyphen"/>ing or Day-light preceding. <hi>Levit.</hi> 23.32. Conſequently the reſt of the Seven days of the Week ſo began: or elſe they could not meaſure out the Sabbath to begin as afore<g ref="char:EOLhyphen"/>ſaid. As alſo the <hi>Jews</hi> Feſti<g ref="char:EOLhyphen"/>vals, and Solemnities would juſtle out, or rob one ano<g ref="char:EOLhyphen"/>ther of their due time, when diverſe come together. As <hi>Levit.</hi> 23.5, 6, 7, 8. <hi>In the Fourteenth day of the Firſt Month at Even is the Lord's Paſſover. On the Fifteenth of the ſame Month is the Feaſt of <g ref="char:V">Ʋ</g>nleavened-bread</hi> &amp;c. <q rend="margQuotes">
+                        <hi>Gro<g ref="char:EOLhyphen"/>tius</hi> on <hi>v.</hi> 32. of that <hi>Levit<g ref="char:EOLhyphen"/>tic.</hi> tells us punctually the mode of this Mutation. <hi>Cum dies per annum inaequales fint, &amp;c.</hi> That is, <hi>Seeing that days by the year are unequal, and in</hi> Summer <hi>the</hi> Sun <hi>ſets
+<pb n="111" facs="tcp:45590:65"/>much more ſlowly, or laterly</hi> (as to us) <hi>then in the</hi> Winter, <hi>the</hi> Hebrews <hi>begin their</hi> Reſt <hi>on the Sabbath ſix hours after the Noon<g ref="char:EOLhyphen"/>tyde.</hi>
+                     </q>
+                  </p>
+                  <pb n="112" facs="tcp:45590:66"/>
+                  <p>
+                     <hi>Now for an example, to the point in hand Let us conſider the Meaſures an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Mutations of</hi> Friday, Saturday, and Sunday <hi>in this</hi> Diagram.</p>
+               </div>
+               <div type="diagram">
+                  <head>The Diagram, or Repreſentation</head>
+                  <list>
+                     <head>According to the Jews Account.</head>
+                     <item>1. <hi>FRIDAY</hi> (which was th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> day of the Week when Chriſt ſuf<g ref="char:EOLhyphen"/>fered) i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, as to the beginning there<g ref="char:EOLhyphen"/>of put back to take its beginning at the immediate preceding Even<g ref="char:EOLhyphen"/>ing of that day, as but now, is afor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> deſcribed by <hi>Grotius;</hi> viz. it be<g ref="char:EOLhyphen"/>gan at the ſixth hour after th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Noon, or Twelve of the Clock.</item>
+                     <item>2. <hi>SAT<g ref="char:V">Ʋ</g>RDAY</hi> (conſequential<g ref="char:EOLhyphen"/>ly) which was the day of the Wee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> wherein Chriſt lay in his Grav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> did begin at the immediate ſucce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ding Evening of that Day.</item>
+                     <item>3. <hi>S<g ref="char:V">Ʋ</g>NDAY</hi> therefore (whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> was the day of the Week whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Chriſt aroſe from the Grave) b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>gan at <hi>Sunday</hi> Evening. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> that Evening, with the Day-ligh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> next following make the Thir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> day. And ſo in the reſt of the day of the Week proportionably.</item>
+                  </list>
+                  <pb n="113" facs="tcp:45590:66"/>
+                  <p>
+                     <hi>Thus ye ſee the</hi> Jews <hi>Meaſure and Computation of the Week by Days, by the Example of the three Days before expreſt.</hi>
+                  </p>
+                  <p>The Parallelogram, what proportion the Chriſtian Account holds with the <hi>Diagram</hi> of the <hi>Jewiſh.</hi>
+                  </p>
+                  <list>
+                     <head>According to the Lord Jeſus Chriſt Account.</head>
+                     <item>1. But Chriſt by his Reſurrection, beginning the Third Day, That is, <hi>Sunday,</hi> in the Morning, which takes to it naturally the ſucceed<g ref="char:EOLhyphen"/>ing Evening to make it a com<g ref="char:EOLhyphen"/>pleat day calling, it the <hi>Third,</hi> Mat. 20.19. Mal. 9.31.—10.34 Luk. 18.33.—24.7.</item>
+                     <item>2. Now as linck after linck in a Chain, <hi>Friday</hi> begins that day (of 24. hours) at <hi>Friday</hi>-morning. <p>
+                           <hi>SAT<g ref="char:V">Ʋ</g>RDAY</hi> begins at <hi>Satur<g ref="char:EOLhyphen"/>day</hi> Morning.</p>
+                     </item>
+                     <item>3. <hi>S<g ref="char:V">Ʋ</g>NDAY</hi> begins at <hi>Sunday</hi> Morning. And ſo all the Evenings re-aſſociated with their Mornings, move forward, and ſlip into their natural places; the <hi>Sun</hi> conſtantly meaſuring out a Night to every Day, and naturally makes the Night the latter part of its race as if the <hi>Sun</hi> reſted after its Labour in the day, whilſt it gives good nights reſt to the labouring man.</item>
+                  </list>
+                  <pb n="114" facs="tcp:45590:67"/>
+                  <p>
+                     <hi>And now, as the cloſe of the</hi> Di<g ref="char:EOLhyphen"/>agram, <hi>ye may behold</hi> Sunday-Sabbath, ſtanding by it ſelf diſtinguiſh<g ref="char:EOLhyphen"/>edly in Mode, Meaſure, and Order, Thus;</p>
+                  <p>The <hi>Jewiſh</hi> Sabbath doth conſiſt,</p>
+                  <list>
+                     <item>1. Of the <hi>Evening</hi> which be<g ref="char:EOLhyphen"/>gan Six hours after the <hi>Noon.</hi> At which they killed their <hi>Paſ<g ref="char:EOLhyphen"/>chal Lamb.</hi>
+                     </item>
+                     <item>2. Of the <hi>Dark-night:</hi> at which time <hi>Iſrael</hi> went out of <hi>Aegypt.</hi>
+                     </item>
+                     <item>3. Of the <hi>Dawning of the Morn<g ref="char:EOLhyphen"/>ing,</hi> as they were delivered in the Sea from <hi>Pharoah</hi> in the morning Watch.</item>
+                     <item>4. Of <hi>Day-light, as when the Jews</hi> ſtood on the Shore, and ſaw their Enemies dead in the <hi>Red-Sea.</hi>
+                     </item>
+                  </list>
+                  <pb n="115" facs="tcp:45590:67"/>
+                  <p>The <hi>Chriſtian</hi> Sabbath con<g ref="char:EOLhyphen"/>ſiſts of theſe parts in this Order;</p>
+                  <list>
+                     <item>1. Of the <hi>Dawning of the Morning,</hi> as when Chriſt aroſe, <hi>Math.</hi> 28.1.</item>
+                     <item>2. Of the <hi>Day-light,</hi> as when Chriſt awhile after his riſing ap<g ref="char:EOLhyphen"/>peared to the two <hi>Maries,</hi> Mat. 28.9.</item>
+                     <item>3. Of the <hi>Evening,</hi> as when Chriſt appeared to the Diſciples at <hi>Evening, John</hi> 20.29.</item>
+                     <item>4. Of the Night and Dark<g ref="char:EOLhyphen"/>neſs, or Dark-night, as when Chriſt took his Natural Reſt; as ſleep he did, as the Evangeliſts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſtifie.</item>
+                  </list>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="116" facs="tcp:45590:68"/>
+               <head>
+                  <hi>CHAP. XI.</hi> Of the Deductions from the whole of the foreſaid Chap<g ref="char:EOLhyphen"/>ters, as genuin Concluſions from the ſaid Premiſes.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Sect.</hi> 1.</head>
+                  <p>HAving cleared (we Hope) the former Nine Chapters; we now judge (under favour of the pious Learned) that we may infer theſe Three Concluſions.</p>
+                  <p n="1">1. That the <hi>Moralitie</hi> of the Fourth Commandement is ſtamp<g ref="char:EOLhyphen"/>ed, impreſſed, and fixed rather on the Chriſtians Sunday, Sab<g ref="char:EOLhyphen"/>bath day, Seventh day, or Firſt day, then upon the <hi>Jews</hi> Satur<g ref="char:EOLhyphen"/>day Sabbath.</p>
+                  <p>
+                     <hi>Note</hi> good Reader by the way, that it is no contradiction in the thing, to call our Sabbath the
+<pb n="117" facs="tcp:45590:68"/>
+                     <hi>Seventh Day,</hi> if it be called alſo by our Tranſlators and others the Firſt Day, as it appears fol<g ref="char:EOLhyphen"/>lowing:</p>
+                  <p n="2">2. The <hi>Jews</hi> Artificial Sab<g ref="char:EOLhyphen"/>bath day of Day-light, and the <hi>Chriſtians</hi> Artificial Sabbath-day of Day-light were in the ſame <hi>Horizon</hi> and materially as to Day-light the very ſame, at the very firſt change of the Sabbath, <hi>Exod.</hi> 12.42. Unleſs we will ſay, That there is one whole day loſt ſince <hi>Iſraels</hi> going out of <hi>Aegypt</hi> (when God Inſtituted, that the <hi>Jews</hi> ſhould begin their Sabbath at Evening) which if admitted, would odd the accompt, and make an interval in the Calcu<g ref="char:EOLhyphen"/>lation of time ſince the Creati<g ref="char:EOLhyphen"/>on to this day. They are there<g ref="char:EOLhyphen"/>fore Numerically the ſame day, although variouſly named; <hi>viz.</hi> The <hi>Seventh day</hi> becauſe it fol<g ref="char:EOLhyphen"/>lowed our Six days labour; and
+<pb n="118" facs="tcp:45590:69"/>the <hi>First day</hi> becauſe the chief day of the Week from <hi>Adam</hi> to us; and the chief day of Chriſt agitating on Earth for our Sal<g ref="char:EOLhyphen"/>vation, <hi>viz.</hi> The day of his Tri<g ref="char:EOLhyphen"/>umphant Reſurrection. Which in the Letter of the Original is not called the <hi>Firſt day of the Week,</hi> but <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>&amp;</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Mar.</hi> 16.2. <hi>Joh.</hi> 20.1.1 <hi>Cor.</hi> 16.2.) That is the only day of the Week, for the reaſon aforeſaid, yea Chriſt roſe in the end of the <hi>Jewiſh</hi> Sabbath between the Se<g ref="char:EOLhyphen"/>venth day, and the Firſt day, and ſo got two names.</p>
+                  <p n="3">3. That both Sabbath days, the <hi>Jews</hi> and ours, upon ſeve<g ref="char:EOLhyphen"/>ral accompts are the ſame.</p>
+                  <p>To clear theſe Three Concluſi<g ref="char:EOLhyphen"/>ons, and Firſt of the Firſt, <hi>That the Morality of the Fourth Comman<g ref="char:EOLhyphen"/>dement is fixed rather on our Chriſtian Sabbath, or Lord's day,
+<pb n="119" facs="tcp:45590:69"/>then on the Jewiſh Sabbath;</hi> Note well that,</p>
+                  <p n="1">¶. 1. If it be granted on all hands that THAT of a Reli<g ref="char:EOLhyphen"/>gious thing which is changeable, be <hi>Ceremonial,</hi> Laſting (as the word imports) but for a time: And THAT of a Religious thing be <hi>Moral,</hi> which is never chan<g ref="char:EOLhyphen"/>geds then if any will ſeek a <hi>Ceremonialty</hi> in the Fourth Com<g ref="char:EOLhyphen"/>mandement, they muſt find it in the change of the <hi>Jews</hi> Sabbath, after their coming out of <hi>Aegypt.</hi> And if they will (as they ought) acknowledg a <hi>Morality</hi> of the Fourth Commandement, it muſt needs be in the Chriſtian Sab<g ref="char:EOLhyphen"/>bath; obſerved from the Crea<g ref="char:EOLhyphen"/>tion to <hi>Moſes</hi>'s time, by <hi>Jews,</hi> and <hi>Heathen Gentiles;</hi> and from that time down to Chriſt, by the <hi>Heathen Gentiles</hi> (as before prov<g ref="char:EOLhyphen"/>ed, <hi>Chap.</hi> 8. and <hi>Chap.</hi> 9.) And from Chriſts time down to
+<pb n="120" facs="tcp:45590:70"/>us, by the <hi>Chriſtian Gentiles.</hi>
+                  </p>
+                  <p n="2">¶. 2. Nor Secondly, did Gods Command, at the <hi>Jews</hi> coming out of <hi>Aegypt,</hi> to obſerve their Sabbath, null or make void the <hi>Chriſtian Gentiles Sabbath;</hi> be<g ref="char:EOLhyphen"/>cauſe as it could plead Preſcrip<g ref="char:EOLhyphen"/>tion and Seniority; ſo it was new ſtampt by Chriſt's <hi>Reſurrection</hi> on that Chriſtian Sabbath (a greater deliverance then that out of <hi>Aegypt</hi>) and his ſeveral <hi>appearances</hi> on that day of the Week to the Apoſtles at their Devotions, <hi>Praying over them,</hi> and <hi>Breathing on them,</hi> ſaying, <hi>receive ye the Holy Ghoſt</hi> (John 20) The Apoſtles likewiſe <hi>approving the Churches meetings on that day,</hi> and improving thoſe meet<g ref="char:EOLhyphen"/>ings as for <hi>Piety,</hi> ſo for <hi>Charitie,</hi> by Collections for Chriſtians in want. 1 <hi>Cor.</hi> 16.1.2. So that <hi>St. John</hi> in and by his <hi>Revelation</hi> he received, calls it the <hi>Lord's
+<pb n="121" facs="tcp:45590:70"/>day,</hi> Revel. 1. And ſince that hath been obſerved by the Chi<g ref="char:EOLhyphen"/>ſtian Churches for One thouſand ſix hundred ſixty three years, juſtly concluding that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> *) <hi>The</hi> LORDS <hi>day,</hi>
+                     <note place="margin">Rev. 1.10.</note> doth as certainly hold out to us our Chri<g ref="char:EOLhyphen"/>ſtian Sabbath, as (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,) 1 <hi>Cor.</hi> 11.20.) Doth <hi>the</hi> LORDS <hi>Supper.</hi>
+                  </p>
+                  <p n="3">¶. 3. We may argue the Mo<g ref="char:EOLhyphen"/>rality of our Lord's day-Sabbath <hi>(a paribus)</hi> from the like caſes in other things. For, why was the <hi>Levitical Law</hi> called Cere<g ref="char:EOLhyphen"/>monial, and to be obſerved on<g ref="char:EOLhyphen"/>ly by the <hi>Jews,</hi> but becauſe God appointed them a Religion and Worſhip in Types, of Sacrifices, Waſhings, <hi>&amp;c.</hi> the Shell and ſen<g ref="char:EOLhyphen"/>ſible out-ſide whereof was to be <hi>ſhaken;</hi> that is, ſhaken down and removed (<hi>Heb.</hi> 12.27.) but the kernel, and Spiritual meaning of them, touching Juſtification and
+<pb n="122" facs="tcp:45590:71"/>Sanctification by the Blood and Spirit of Chriſt, <hi>&amp;c.</hi> was to abide for ever to the end of this World Heb. 12.27, 28.) Therefore a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the whole <hi>Politia</hi> of the <hi>Jews</hi> Worſhip was partly (that is, Ex<g ref="char:EOLhyphen"/>trinſecally in the Letter) <hi>Cere<g ref="char:EOLhyphen"/>monial,</hi> and partly (Intrinſecally in the Spirit, and meaning) was <hi>Moral:</hi> So their Solemn day for Exerciſe of their Solemn Wor<g ref="char:EOLhyphen"/>ſhip was <hi>Ceremonial</hi> in that it might be changed, and was chan<g ref="char:EOLhyphen"/>ged to [A] Seventh day for the <hi>Jews</hi> to obſerve; and is <hi>Moral</hi> in the fixt Standing of [THE] Seventh-day Solemn Worſhip, obſerved by the Chriſtians to the end of this World: to which day (its hoped) the <hi>Jews</hi> when convinced, will again change their <hi>Jewiſh</hi> Sabbath.</p>
+                  <p n="4">¶. 4. What Notion then (will ſome ask) and what value do we put upon the Ten Commande<g ref="char:EOLhyphen"/>ments
+<pb n="123" facs="tcp:45590:71"/>delivered by God himſelf to the <hi>Iſraelites</hi> by the hand of <hi>Moſes,</hi> after the change of the Sabbath, when they were come out of <hi>Aegypt as far as the Mount Sinai,</hi> Exod. 20? <hi>Anſwer,</hi> We look on them in the <hi>Matter</hi> as altogether <hi>moral</hi> Commande<g ref="char:EOLhyphen"/>ments, though in reſpect of that change of the Solemn Week day of Publick Worſhip (wherein ſpecially they were read and re<g ref="char:EOLhyphen"/>cited to the <hi>Jews</hi>) we look on them as <hi>Ceremonial.</hi> I mean, Though the <hi>time</hi> in reſpect of that change was <hi>Ceremonial,</hi>
+                     <note place="margin">N. B.</note> yet the <hi>Commandements themſelves</hi> in their Subſtance are <hi>moral.</hi> Our Reaſon is, Becauſe the Ten Com<g ref="char:EOLhyphen"/>mandements were written (in their <hi>Equity</hi>) in mans heart from the beginning; and in their <hi>mat<g ref="char:EOLhyphen"/>ter</hi> were extant <hi>in uſe and Practiſe,</hi> long before <hi>Iſraels</hi> coming out of <hi>Aegypt.</hi>
+                  </p>
+                  <p>For Example; The matter of
+<pb n="124" facs="tcp:45590:72"/>the Firſt Commandement, of <hi>Faith in God</hi> was commended and commanded, and enjoyned all the World over both <hi>Jews</hi> and <hi>Gentiles.</hi> Gen. 15.6. <hi>Abra<g ref="char:EOLhyphen"/>ham believed in God, and the Lord ACCOMPTED IT TO HIM FOR RIGHTEO<g ref="char:V">Ʋ</g>SNESS.</hi> This Com<g ref="char:EOLhyphen"/>mendation, and acceptation of Faith by God himſelf is in <hi>Gal<g ref="char:EOLhyphen"/>latians</hi> 3.5, 6, 7, 8. transferred and applyed to the <hi>Heathen Gen<g ref="char:EOLhyphen"/>tiles; He therefore</hi> (ſaith the Ap<g ref="char:EOLhyphen"/>poſtle). <hi>that miniſtreth to you the Spirit, and doth he it by the works of the Law, or by the hearing of</hi> FAITH? <hi>Even as</hi> Abraham <hi>be<g ref="char:EOLhyphen"/>lieved God, and it was account<g ref="char:EOLhyphen"/>ed to him for</hi> RIGHTEOUS<g ref="char:EOLhyphen"/>NESS. <hi>Know ye therefore, that they which are of Faith, the ſame are the Children of</hi> Abraham. <hi>And the Scripture foreſeeing that God would</hi> JUSTIFIE <hi>the</hi> HEATHEN <hi>by</hi> FAITH, <hi>Preach<g ref="char:EOLhyphen"/>ed before the Goſpel to</hi> Abraham.
+<pb n="125" facs="tcp:45590:72"/>The injunction of Faith in God upon all men, according to the intent of the Firſt Commande<g ref="char:EOLhyphen"/>ment, is fully held forth, <hi>Heb.</hi> 11.6. <hi>Without Faith it is impoſſible to pleaſe God: For he that cometh to God, muſt believe, that</hi> HE IS, <hi>and that he is a rewarder of them that diligently ſeek him.</hi>
+                  </p>
+                  <p>So likewiſe the Matter of the Second Commandement for<g ref="char:EOLhyphen"/>bidding all <hi>Idolatrous and falſe Worſhip,</hi> not Inſtituted by God, is intimated in times before the ſetting forth of the Moral Law at <hi>Sinai,</hi> and the breach there<g ref="char:EOLhyphen"/>of ſeverely puniſhed or reprov<g ref="char:EOLhyphen"/>ed. <hi>Exod.</hi> 32. While <hi>Moſes</hi> was on the Mount, receiving the Two Tables of the Law at God's hand, the <hi>Iſraelites</hi> make a Mol<g ref="char:EOLhyphen"/>ten Calfe, and Proclaim, <hi>To mor<g ref="char:EOLhyphen"/>row is a Feaſt to Jehovah,</hi> and do then Sacrifice to it and dance a<g ref="char:EOLhyphen"/>bout it. This the Apoſtlecalls <hi>Idolatry,</hi> 1 <hi>Cor.</hi> 10. Becauſe though
+<pb n="126" facs="tcp:45590:73"/>they pretended the Worſhiping of the <hi>true</hi> God, yet they did it through an uninſtituted and falſe <hi>medium</hi> or mean. And therefore are there puniſhed with a great ſlaughter. And from the begin<g ref="char:EOLhyphen"/>ning &amp;c. <hi>Cain, Abel, Noah, Abra<g ref="char:EOLhyphen"/>ham</hi> Sacrificed. And <hi>Laban,</hi> yea <hi>Abraham,</hi> before his Call, are reproached for their Idolatry, <hi>Joſh.</hi> 24.15.</p>
+                  <p>So alſo the <hi>matter</hi> of the Third Commandement touch<g ref="char:EOLhyphen"/>ing <hi>Honouring Gods Name, in fear<g ref="char:EOLhyphen"/>ing him, and ſwearing by it,</hi> Deut. 6.13. was in uſe and practiſe long before the giving of the Law, <hi>Gen.</hi> 14.22. <hi>And</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>ſaid to the King of</hi> Sodom <hi>I have lifted up my hand unto the Lord, the moſt high God, the Poſſeſſor of Heaven and Earth;</hi> That is, he had <hi>ſworn by the Name of the Lord.</hi> So it is ſaid of <hi>Ja<g ref="char:EOLhyphen"/>cob.</hi> Gen. 31.53. That <hi>he Sware by the</hi> FEAR <hi>of his Father</hi> Iſaac,
+<pb n="127" facs="tcp:45590:73"/>that is, he Sware by the true God whom <hi>Jſaac</hi> truely feared; yea the Idolatrous <hi>Laban,</hi> Gen. 21 23. And the <hi>Heathen Abimelech,</hi> Gen. 2. <hi>v.</hi> 22, 23. practiſed obe<g ref="char:EOLhyphen"/>dience to this Command.</p>
+                  <p>The matter of the Fourth Commandement, touching <hi>San<g ref="char:EOLhyphen"/>ctifying the Sabbath day</hi> is alſo in uſe before the giving of the Law at Mount <hi>Sinai,</hi> as hath been abundantly cleared in the preceding diſcourſe: though that one place, <hi>Exod.</hi> 16.22, 23. would have ſufficiently evinced it, where it is ſaid, <hi>And it came to paſs on the</hi> SIXTH <hi>day they ga<g ref="char:EOLhyphen"/>thered twice as much bread</hi> (viz. <hi>Manna</hi>) <hi>And all the Rulers of the Congregation came and told</hi> Mo<g ref="char:EOLhyphen"/>ſes; in which words is neceſſi<g ref="char:EOLhyphen"/>tatedly ſuppoſed an obſervation of the Sabbath preceding. See the <hi>Engliſh</hi> Annotations on <hi>Gen.</hi> 2 3. arguing the Point.</p>
+                  <pb n="128" facs="tcp:45590:74"/>
+                  <p>The Matter of the Fifth Com<g ref="char:EOLhyphen"/>mandement of due <hi>Subjection o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Inferiours to Superiours,</hi> is alſo impoſed and practiſed long be<g ref="char:EOLhyphen"/>fore the giving of the Law See <hi>Gen.</hi> 3.16. And the Lord ſaid to <hi>Eve, Thy deſire ſhall be t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thy Husband, and he ſhall rul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> over thee.</hi> And <hi>Sarah</hi> honour her Husband <hi>Abraham</hi> with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Title of <hi>Lord,</hi> Gen. 18.12 Which was her commendation 1 <hi>Pet.</hi> 3.5, 6. See further con<g ref="char:EOLhyphen"/>cerning Subjection and Domini<g ref="char:EOLhyphen"/>on. <hi>Gen.</hi> 27. <hi>v.</hi> 29, &amp; 37.</p>
+                  <p>So is the Sixth Commande<g ref="char:EOLhyphen"/>ment evidently extant <hi>forbid<g ref="char:EOLhyphen"/>ding murder,</hi> long before the giving of the Law at <hi>Sinai.</hi> Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Gen.</hi> 9.6. <hi>Who ſo ſheddeth man's Blood, by man ſhall his Blood be ſhed.</hi>
+                  </p>
+                  <p>As for the Seventh Comman<g ref="char:EOLhyphen"/>dement touching <hi>Adulterie,</hi> ſee
+<pb n="129" facs="tcp:45590:74"/>the unlawfulneſs of it in <hi>Judah</hi> (the Son of <hi>Jacob</hi>) lying with <hi>Tamar,</hi> and the Judgment paſſed upon it, <hi>Gen.</hi> 38.24. See the <hi>Dutch,</hi> and <hi>Engliſh</hi> Annotations upon it.</p>
+                  <p>Of the Matter of the Eighth Commandement touching <hi>Steal<g ref="char:EOLhyphen"/>ing,</hi> and the unlawfulneſs there<g ref="char:EOLhyphen"/>of, See <hi>Gen.</hi> 31. <hi>v.</hi> 32. In that <hi>Jacob</hi> would not juſtifie any of his Family that had ſtolen ought from <hi>Laban;</hi> but would give them up to puniſhment. And in <hi>v.</hi> 39. <hi>Jacob</hi> made good to <hi>La<g ref="char:EOLhyphen"/>ban</hi> any thing that had been <hi>Sto<g ref="char:EOLhyphen"/>len</hi> from him whiles <hi>Jacob</hi> kept his Flocks.</p>
+                  <p>Concerning the Ninth Com<g ref="char:EOLhyphen"/>mandement forbidding all falſe Witneſſings, it was of ſuch con<g ref="char:EOLhyphen"/>ſequence in the eſteem both of <hi>Jews</hi> and <hi>Heathens,</hi> viz, <hi>Abra<g ref="char:EOLhyphen"/>ham, Jacob,</hi> and <hi>Abimilech, Picol,</hi>
+                     <pb n="130" facs="tcp:45590:75"/>and <hi>Laban,</hi> that to make ſure a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> agreement they called God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Witneſs, that they ſpake tr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> by an Oath, <hi>Gen.</hi> 14.22. <hi>Gen.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 31. <hi>Gen.</hi> 31.53. All which w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> long before the giving of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Law.</p>
+                  <p>The Tenth Commandement <hi>Thou ſhalt not Covet and its <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>lawfulneſs.</hi> We have intimated <hi>Gen.</hi> 6.2. <hi>The Sons of God ſaw the Daughters of Men that they were fair, and they took to them Wives, of all which they choſe.</hi> This their <hi>Seeing</hi> the beauties of the Daughters of men was their <hi>Luſt,</hi> or <hi>Concupiſcence:</hi> It was a double, or compound Luſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> partly the Luſt of <hi>the Fleſh,</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> partly the <hi>Luſt of the Eyes;</hi> r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tioned there as their great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and amplified <hi>v.</hi> 6. and th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ned in the remainder of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Chapter.
+<note place="margin">N. B.</note> For, Concupiſcer <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="131" facs="tcp:45590:75"/>an Introduction to the breach of all the Five Commandements of the ſecond Table, becauſe it is an inordinate and unjuſt deſire af<g ref="char:EOLhyphen"/>ter that which is my Neighbours, without due conſideration for it. When therefore a man doth Con<g ref="char:EOLhyphen"/>cupiſcentially deſire his <hi>Neigh<g ref="char:EOLhyphen"/>bours Wife,</hi> he is diſpoſed to<g ref="char:EOLhyphen"/>wards the breaking of the Com<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>andement againſt <hi>Adulterie.</hi> When he deſires Concupiſcenti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lly his Neighbours <hi>Servant</hi> he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s inclined towards the breach of the Commandement of every <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne <hi>to honour his own Superior,</hi> Maſter, or Governor. When <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Concupiſcentially deſires his Neighbours <hi>Houſe, Oxe, or Aſs,</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e is diſpoſed in his heart to<g ref="char:EOLhyphen"/>wards the breach of the Com<g ref="char:EOLhyphen"/>mandement of <hi>Theft.</hi> Laſtly, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en it is ſaid <hi>Thou ſhalt not co<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et any thing that is thy Neigh<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ours,</hi> it ſignifies that this Con<g ref="char:EOLhyphen"/>cupiſcence will incline and diſ<g ref="char:EOLhyphen"/>poſe
+<pb n="132" facs="tcp:45590:76"/>a man to take away his Neighbours Life, good Name, and Trade, contrary to the for<g ref="char:EOLhyphen"/>mer Commandements. Thus ye ſee my aſſerting the Morality of the Ten Commandements and my Reaſon for it; and that Morality is to be ſtampt and fixt rather upon the Chriſtians <hi>Sun<g ref="char:EOLhyphen"/>day-Sabbath,</hi> then upon the <hi>Jew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Saturday-Sabbath.</hi> And thus o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Firſt Concluſion.</p>
+                  <p n="2">¶. 2. The Second Concluſion to be cleared (as before named) is, That the <hi>Jews</hi> Artificial Sab<g ref="char:EOLhyphen"/>bath-day, of Day-light, an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Chriſtians</hi> Artificial Sabbath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Day-light, were <hi>Materia</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to Day-light) the very ſelf <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> at the very firſt Change <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sabbath, <hi>Ex.</hi> 12.42. unle<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> will ſay that there is one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> day loſt, ſince <hi>Iſraels</hi> goi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> of <hi>Aegypt,</hi> when God Inſti<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> That the <hi>Jews</hi> ſhould begin <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="133" facs="tcp:45590:76"/>Sabbath at Evening. Which, if admitted, would odd the Ac<g ref="char:EOLhyphen"/>compt, and make an interval in the Calculation of time, ſince the Creation to this time. Now for the clearing of this Conclu<g ref="char:EOLhyphen"/>ſion, Conſider, That if we grant what is before undeniably pro<g ref="char:EOLhyphen"/>ved (<hi>Chap.</hi> 9th.) That both the <hi>Jews</hi> and <hi>Gentiles</hi> before the change of the Sabbath, obſer<g ref="char:EOLhyphen"/>ved our Sunday, whoſe Day-light began (both with <hi>Jew</hi> and <hi>Gentile</hi>) at Sun-riſing: And at the Inſtitution of that Change of the Sabbath God command<g ref="char:EOLhyphen"/>ed the <hi>Jews</hi> to take into their Sabbath the next preceding Evening, then either we muſt ſay, The <hi>Jews</hi> Sabbath began the Evening next AFORE our Sabbath-day-light began; or elſe that the <hi>Jews</hi> Sabbath began at the Evening AFTER our Sabbath-day-light began. If we ſay AFTER, then one
+<pb n="134" facs="tcp:45590:77"/>whole day is loſt in the com<g ref="char:EOLhyphen"/>putation of time. If we ſay AFORE, then we have that we contend for, viz. <hi>That the</hi> Jews <hi>Artificial Sabbath-day of Day-light, and the Chriſtians Ar<g ref="char:EOLhyphen"/>tificial Sabbath of Day-light were Materially (as to Day-light)</hi> the very ſelf ſame as before at the very firſt change of the Sabbath. Thus of the Second Concluſi<g ref="char:EOLhyphen"/>on.</p>
+                  <p n="3">¶. 3. Concluſion to be clear<g ref="char:EOLhyphen"/>ed (afore named) is, That both Sabbaths, the <hi>Jews</hi> and ours in ſeveral reſpects and on ſeveral accompts are much the ſame.</p>
+                  <p n="1">1. They are the ſame <hi>Materi<g ref="char:EOLhyphen"/>ally,</hi> as to Day-light, not only in the ſame <hi>Horizon</hi> of which <hi>Jeruſalem</hi> is the Centre point (as was ſaid in the Firſt Conclu<g ref="char:EOLhyphen"/>ſion) but alſo in that <hi>Horizon</hi> which encircleth <hi>England</hi> and
+<pb n="135" facs="tcp:45590:77"/>
+                     <hi>Judaea,</hi> excepting about four or five hours, that Day-light be<g ref="char:EOLhyphen"/>gins in <hi>Judaea,</hi> ſo much ſooner, then with us in <hi>England</hi> as is demonſtrable upon the Globe.</p>
+                  <p n="2">2. They are the ſame <hi>reputa<g ref="char:EOLhyphen"/>tively;</hi> that is, They are repu<g ref="char:EOLhyphen"/>ted and eſteemed the ſame day of the week in number. For what is the Reaſon, that the <hi>French</hi> and <hi>Dutch</hi> are ſaid to keep the Twenty fifth day of <hi>December</hi> for the Feaſt of the Nativity of Chriſt; and yet we <hi>Engliſh</hi> alſo are ſaid to keep the ſame Feaſt on the Twenty fifth day of <hi>December,</hi> though we keep it Ten days (Old Style) after them beyond Sea, that obſerve (New-Style) Ten days before us? I ſay what is the Rea<g ref="char:EOLhyphen"/>ſon, but becauſe the <hi>French</hi> and <hi>Dutch</hi> ever ſince that <hi>Pope Gre<g ref="char:EOLhyphen"/>gory</hi> altered their Year, begin
+<pb n="136" facs="tcp:45590:78"/>their Months ſooner by Ten days then we do: Juſt ſo it is in the Matter of the Sabbath; namely, both <hi>Jews</hi> and <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi> all of them keep their Sab<g ref="char:EOLhyphen"/>bath on the ſame day of the Week, <hi>viz.</hi> on the SEVENTH day of the Week; and that the Reaſon why the Seventh day of the Week with the <hi>Jews</hi> comes to be almoſt a day ſoo<g ref="char:EOLhyphen"/>ner then it doth with the <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> is, becauſe the <hi>Jews</hi> began their Week near a day ſooner, this they did formerly before the change of it at their com<g ref="char:EOLhyphen"/>ing out of <hi>Aegypt:</hi> and ſooner then the <hi>Heathen Gentiles</hi> did, and the <hi>Chriſtians</hi> now do.</p>
+                  <p n="3">3. Both Sabbath days the <hi>Jews,</hi> and Ours, are the ſame boundarily. For as the Six days of Man's Labour do bound out the <hi>Jews</hi> preſent Sabbath; <hi>Six
+<pb n="137" facs="tcp:45590:78"/>days</hi> (ſaith the Fourth Comman<g ref="char:EOLhyphen"/>dement) <hi>Shalt thou Labour and do all thy Work, but the Seventh is the Sabbath of the Lord thy God:</hi> So all the Six days of our Labour are the boundary of our <hi>Chriſtian</hi> Sabbath, for after our Six days of our Labour we keep our Sabbath; not ſooner, nor later. And the natural neceſſity of the thing conſtreins. For the Sabbath muſt either re<g ref="char:EOLhyphen"/>late to the Six days of <hi>God's Work of Creation,</hi> or to the Six days <hi>of Man's Labour in his Vocation.</hi>
+                  </p>
+                  <p>Now it cannot relate to the Six days of God's Work of Cre<g ref="char:EOLhyphen"/>ation, and ſo to the day of God's Reſt; For then, either the day of God's Reſt, and the <hi>Jews</hi> Sabbath muſt be the ſame, be<g ref="char:EOLhyphen"/>ginning in all places at Sun-ſet<g ref="char:EOLhyphen"/>ting, where-ever the <hi>Jews</hi> did,
+<pb n="138" facs="tcp:45590:79"/>or ought to obſerve their Sab<g ref="char:EOLhyphen"/>bath: which cannot be, except the Earth were all a flatt (and not a round Globe) as we ſee by ſence, both on the Globe, and on the Hills and Moun<g ref="char:EOLhyphen"/>tains of the Earth, how their roundneſs makes the day begin ſucceſſively, over the whole Earth. Or elſe the day of Gods Reſt did at the firſt, and ſtill doth begin in this com<g ref="char:EOLhyphen"/>putation of a Seventh, ſooner in ſome places then in other; and ſo firſt at one particular place, whiles it was no where elſe the day of God's Reſt; ei<g ref="char:EOLhyphen"/>ther of which are ſo againſt ſence and reaſon, that no un<g ref="char:EOLhyphen"/>derſtanding man can rational<g ref="char:EOLhyphen"/>ly imagine it.</p>
+                  <p>Therefore, the bounding and meaſuring out of the Sabbath muſt relate to the <hi>Six days of
+<pb n="139" facs="tcp:45590:79"/>Man's Labour in his Vocati<g ref="char:EOLhyphen"/>on,</hi> as 'tis directed in the Fourth Commandement: immediatly after which Six days of our La<g ref="char:EOLhyphen"/>bour follows the Seventh day for Reſt. So that in this reſpect alſo the <hi>Jews</hi> Sabbath, and our Sabbath, are the ſame.</p>
+               </div>
+            </div>
+         </div>
+         <div type="conclusion">
+            <pb n="140" facs="tcp:45590:80"/>
+            <head>The Cloſe.</head>
+            <p>THus have I Laboured, in this ſmall Treatiſe, with great Ventilations and Careful thoughts to give reſt to others: hoping that upon due conſide<g ref="char:EOLhyphen"/>ration of what hath been clear<g ref="char:EOLhyphen"/>ed in the precedent Treatiſe, touching the Seniority of our Chriſtian Sabbath before the Law: The ſameneſs in ſeveral reſpects of both Sabbaths at this day; And that the Crown of <hi>Morality</hi> is rather Set, Worn, or to be worn on the head of our <hi>Chriſtian</hi> Sabbath, then on the <hi>Jewiſh;</hi> Our Chriſtian Brethren of the Saturday-<hi>Sabbatarians</hi> will be brought off from the Errour of their Opinion, and out of that diſcomfort, and
+<pb n="141" facs="tcp:45590:80"/>thoſe encumbrances that attend the Practiſe thereof: Which is the Prayer of their hearty well-wiſhing Friend,</p>
+            <closer>
+               <signed>N. H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45590:81" rendition="simple:additions"/>
+            <pb facs="tcp:45590:81"/>
+         </div>
+      </body>
+   </text>
+</TEI>
